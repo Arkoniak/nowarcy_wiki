@@ -2,7 +2,7 @@
 title: Сведения о войне
 description: новостные ресурсы, дайджесты и прочее
 published: true
-date: 2022-03-04T20:04:09.880Z
+date: 2022-03-04T20:32:34.143Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-04T20:03:41.627Z
@@ -15,6 +15,7 @@ dateCreated: 2022-03-04T20:03:41.627Z
 
 * https://www.theguardian.com/world/2022/mar/04/russias-war-in-ukraine-complete-guide-in-maps-video-and-pictures
 * Ежедневный выпуск новостей от BBC. Девятый день: https://www.bbc.com/news/world-europe-60506682
+* https://t.me/CITeam - дайджест новостей
 
 # Журналисты
 * [OSINTtechnical](https://twitter.com/Osinttechnical) - твиттер аккаунт
@@ -23,3 +24,5 @@ dateCreated: 2022-03-04T20:03:41.627Z
 # Аналитики
 * [Kofman Michael](https://twitter.com/KofmanMichael). Делал аналитику за месяц до вторжения https://warontherocks.com/2022/01/putins-wager-in-russias-standoff-with-the-west/
 * [Твиттер аккаунт Rob Lee](https://twitter.com/RALee85)
+* https://www.youtube.com/c/MackNack - вот Майкл Наки как не в себя делает ролики по теме всю неделю
+половина - по сути интервтю с экспертами
