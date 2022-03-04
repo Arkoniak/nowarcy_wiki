@@ -2,7 +2,7 @@
 title: Сведения о войне
 description: новостные ресурсы, дайджесты и прочее
 published: true
-date: 2022-03-04T20:32:34.143Z
+date: 2022-03-04T20:35:16.906Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-04T20:03:41.627Z
@@ -25,4 +25,4 @@ dateCreated: 2022-03-04T20:03:41.627Z
 * [Kofman Michael](https://twitter.com/KofmanMichael). Делал аналитику за месяц до вторжения https://warontherocks.com/2022/01/putins-wager-in-russias-standoff-with-the-west/
 * [Твиттер аккаунт Rob Lee](https://twitter.com/RALee85)
 * https://www.youtube.com/c/MackNack - вот Майкл Наки как не в себя делает ролики по теме всю неделю
-половина - по сути интервтю с экспертами
+половина - по сути интервью с экспертами. Uwaga: так как после закрытия Эха он перековался в блогера, контент может стать более эмоциональным и менее аналитическим.
