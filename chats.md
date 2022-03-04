@@ -2,7 +2,7 @@
 title: Чаты
 description: 
 published: true
-date: 2022-03-04T08:16:37.680Z
+date: 2022-03-04T19:37:55.034Z
 tags: chat, telegram
 editor: markdown
 dateCreated: 2022-03-03T10:51:59.725Z
@@ -15,11 +15,11 @@ dateCreated: 2022-03-03T10:51:59.725Z
 
 Информационный канал: [Нет Войне! Инфо](https://t.me/nowarcy)
 
-Обсуждение википедии: `Нет войне! Вики` (TBD: нужна ссылка)
+Обсуждение википедии: [Нет войне! Вики](https://t.me/+jQ1ffUlYqhw3ZWYy)
 
-Оргчат: `Нет войне! Оргчат` (TBD: нужна ссылка)
+Оргчат: [Нет Войне! Оргчат](https://t.me/+XLcM_0EWpZEwNDg6)
 
-Атрибутика: TBD: нужна ссылка
+Атрибутика: [Нет Войне! Атрибутика](https://t.me/+XLcM_0EWpZEwNDg6)
 
 ## Лайфхак
 
