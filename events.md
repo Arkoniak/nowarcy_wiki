@@ -2,7 +2,7 @@
 title: Акции
 description: Список проводимых акций.
 published: true
-date: 2022-03-03T20:54:40.649Z
+date: 2022-03-05T19:07:53.343Z
 tags: events
 editor: markdown
 dateCreated: 2022-03-03T11:33:52.181Z
@@ -15,6 +15,8 @@ dateCreated: 2022-03-03T11:33:52.181Z
 Установить на своем телефоне можно по [этой ссылке](https://calendar.google.com/calendar/embed?src=02ht52d58c5l660680gt0at5p0%40group.calendar.google.com&ctz=Asia%2FNicosia). После перехода нужно нажать `+` в правом нижнем углу.
 
 ## Предстоящие
+Краткий список предстоящих акций находится [здесь](/events/short).
+
 ### #япротиввойны в воскресенье тоже
 
 Ссылка на акцию: [#япротиввойны в воскресенье тоже](https://www.facebook.com/events/519809749717475)
@@ -32,21 +34,6 @@ Duration: 2 hr
 **Символика**
 вряд ли мы можем настаивать на запрете триколора для тех, кто, противопоставляя себя преступному режиму, продолжает ассоциировать себя с рф с ее аттрибутами
 Но предлагаем альтернативную символику - бело-сине-белый флаг - https://www.facebook.com/groups/cybrt/posts/506595150812073/
-
-### Demonstration of Support for Ukraine 
-
-https://www.facebook.com/events/501624921569228
-
-**Время**: 5 марта, суббота 11 AM
-
-**Место**: Russian Consulate, Gladstonos Street, Limassol 
-
-Ukraine, a European country, is burning with a ruthless and irrational war it never wanted. Civilians are being killed every day, families are being torn apart, houses are being bombed, villages are disappearing, the economy is being destroyed, the environment is being hit hard.
-
-Putin's bigotry and irrationality are leading humanity into a new world war.
-
-Come out of the Russian Consulate on Gladstonos Street in Limassol on Saturday 5-3-2022 at 11 am to condemn the invasion of the Russian army, to protest the great humanitarian catastrophe that is taking place and to support Ukraine that lives what it lived Cyprus 50 years ago.
-We demand an immediate end to the war, the withdrawal of Russian troops and peace in Ukraine.
 
 ## Акции от "Нет Войне! Кипр"
 
