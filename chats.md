@@ -2,7 +2,7 @@
 title: Чаты
 description: 
 published: true
-date: 2022-03-04T19:37:55.034Z
+date: 2022-03-05T19:18:41.675Z
 tags: chat, telegram
 editor: markdown
 dateCreated: 2022-03-03T10:51:59.725Z
@@ -25,10 +25,11 @@ dateCreated: 2022-03-03T10:51:59.725Z
 
 ![flameshot-2022-03-03t13-07-35.png](/flameshot-2022-03-03t13-07-35.png)
 
-# Другие кипрские чаты
+# Другие кипрские группы и чаты
 
 * Украинский чат [Українці на Кіпрі](https://t.me/uacyprus)
 * [Українці на Кіпрі - Інфоканал](https://t.me/uacyprus_info)
+* Украинская фейсбук группа: [Українці на Кіпрі / Украинцы на Кипре / Ukrainians in Cyprus](https://www.facebook.com/groups/uacyprus/)
 
 # Глобальные чаты
 
