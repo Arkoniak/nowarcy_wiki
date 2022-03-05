@@ -1,8 +1,8 @@
 ---
-title: Чаты
+title: Чаты и группы
 description: 
 published: true
-date: 2022-03-05T19:18:41.675Z
+date: 2022-03-05T19:20:48.737Z
 tags: chat, telegram
 editor: markdown
 dateCreated: 2022-03-03T10:51:59.725Z
@@ -34,3 +34,4 @@ dateCreated: 2022-03-03T10:51:59.725Z
 # Глобальные чаты
 
 * Телеграм канал [РОССИЯНЕ ПРОТИВ ВОЙНЫ](https://t.me/russiansagainstputinswar)
+* [Флаг свободной России](https://t.me/whitebluewhite) - арты, фото с акций и статьи в комментариях, в первую очередь посвященные БСБ флагу.
