@@ -2,7 +2,7 @@
 title: Сведения о войне
 description: новостные ресурсы, дайджесты и прочее
 published: true
-date: 2022-03-06T08:50:09.469Z
+date: 2022-03-06T08:53:03.335Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-04T20:03:41.627Z
@@ -17,6 +17,7 @@ dateCreated: 2022-03-04T20:03:41.627Z
 * Ежедневный выпуск новостей от BBC. Девятый день: https://www.bbc.com/news/world-europe-60506682
 * https://t.me/CITeam - телеграм канал с краткими новостями.
 * British ministry of defence выкладывает ежедневную короткую сводку: https://twitter.com/DefenceHQ/status/1500357239428763649?t=ycS3xlAj7SOJuWiaRdjvsw&s=19
+* Интерактивная карта боевых действий https://www.google.com/maps/d/u/0/viewer?mid=1ROxxPyw0nPAa5HDAABCBU-IDECabGw3-&ll=46.62523965946219%2C34.39444483045365&z=5
 
 # Журналисты
 * [OSINTtechnical](https://twitter.com/Osinttechnical) - твиттер аккаунт
