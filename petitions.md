@@ -2,7 +2,7 @@
 title: Петиции
 description: Петиции и различные обращения
 published: true
-date: 2022-03-03T19:54:58.842Z
+date: 2022-03-06T07:19:03.769Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T16:12:13.742Z
@@ -11,6 +11,7 @@ dateCreated: 2022-03-03T16:12:13.742Z
 # Петиции
 * Петиция россиян ["НЕТ ВОЙНЕ!"](https://www.change.org/p/%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%D0%B2%D0%BE%D0%B9%D0%BD%D1%83-%D1%81-%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%BE%D0%B9-2ce0a2d7-b957-4e23-981a-c67a26e2b0b7)
 * Всемирная петиция к НАТО о [закрытии неба на Украиной](https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine)
+* Всемирная петиция к ООН [People around the world are appealing to the UN to exclude Russia from the UN Security Council ](https://www.openpetition.eu/petition/online/people-around-the-world-are-appealing-to-the-un-to-exclude-russia-from-the-un-security-council)
 
 # Письма
 Важный сайт: https://we-are-not-alone.ru/
