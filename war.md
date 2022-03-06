@@ -2,7 +2,7 @@
 title: Сведения о войне
 description: новостные ресурсы, дайджесты и прочее
 published: true
-date: 2022-03-06T08:50:01.898Z
+date: 2022-03-06T08:50:09.469Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-04T20:03:41.627Z
