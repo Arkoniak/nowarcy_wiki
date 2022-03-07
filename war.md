@@ -2,7 +2,7 @@
 title: Сведения о войне
 description: новостные ресурсы, дайджесты и прочее
 published: true
-date: 2022-03-07T19:10:21.640Z
+date: 2022-03-07T19:12:46.582Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-04T20:03:41.627Z
@@ -22,6 +22,7 @@ dateCreated: 2022-03-04T20:03:41.627Z
 # Журналисты
 * [OSINTtechnical](https://twitter.com/Osinttechnical) - твиттер аккаунт
 * [Твиттер аккаунты украинских журналистов](https://twitter.com/i/lists/1497499544950644746)
+* [Твиттер новостей об Украине](https://twitter.com/i/lists/1498457571216134144)
 
 # Аналитика
 * [Kofman Michael](https://twitter.com/KofmanMichael). Делал аналитику за месяц до вторжения https://warontherocks.com/2022/01/putins-wager-in-russias-standoff-with-the-west/
