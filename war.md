@@ -2,7 +2,7 @@
 title: Сведения о войне
 description: новостные ресурсы, дайджесты и прочее
 published: true
-date: 2022-03-06T08:53:03.335Z
+date: 2022-03-07T06:03:28.691Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-04T20:03:41.627Z
@@ -23,8 +23,9 @@ dateCreated: 2022-03-04T20:03:41.627Z
 * [OSINTtechnical](https://twitter.com/Osinttechnical) - твиттер аккаунт
 * [Твиттер аккаунты украинских журналистов](https://twitter.com/i/lists/1497499544950644746)
 
-# Аналитики
+# Аналитика
 * [Kofman Michael](https://twitter.com/KofmanMichael). Делал аналитику за месяц до вторжения https://warontherocks.com/2022/01/putins-wager-in-russias-standoff-with-the-west/
 * [Твиттер аккаунт Rob Lee](https://twitter.com/RALee85)
 * https://www.youtube.com/c/MackNack - вот Майкл Наки как не в себя делает ролики по теме всю неделю
 половина - по сути интервью с экспертами. Uwaga: так как после закрытия Эха он перековался в блогера, контент может стать более эмоциональным и менее аналитическим.
+* [Bellingcat](https://www.bellingcat.com/category/news/?fwp_tags=ukraine%2Crussia) - знаменитое издание, занимающееся расследованиями.
