@@ -2,7 +2,7 @@
 title: Краткий список предстоящих акций
 description: 
 published: true
-date: 2022-03-07T06:14:33.660Z
+date: 2022-03-07T06:14:43.200Z
 tags: events
 editor: markdown
 dateCreated: 2022-03-05T19:15:11.954Z
@@ -14,7 +14,7 @@ dateCreated: 2022-03-05T19:15:11.954Z
 
 Ссылка на акцию: 
 * https://www.facebook.com/events/516361703334025
-* рttps://www.facebook.com/events/3267612316803938
+* https://www.facebook.com/events/3267612316803938
 
 Время: 3-5 pm
 
