@@ -2,7 +2,7 @@
 title: Символика
 description: Флаг, постеры, плакаты и другие графические ресурсы
 published: true
-date: 2022-03-07T08:49:08.044Z
+date: 2022-03-07T08:53:53.014Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T16:26:37.440Z
@@ -56,6 +56,7 @@ https://t.me/cy_walks/7341
 * Украинская [База креативних постерів](https://standwithukraine.super.site/a441535fb4fb4a9cab4cda445ee3a869)
 * Сайт группы "Нет Войне! Кипр": [НЕТ ВОЙНЕ!](https://sites.google.com/view/nowar/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)
 * от команды Навального(?) https://www.dropbox.com/sh/sqh0betwexxzsd7/AACUkHgpVBQ3uKc0Vtll0Wp5a
+* от венгерских товарищей https://mega.nz/folder/cypnnQjI#99a1ZX30M8F0Bf0CtFoh_A
 * Внутренний вики сайт: [Постеры](/symbolics/posters)
 
 # Чаты и группы
