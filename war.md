@@ -2,7 +2,7 @@
 title: Сведения о войне
 description: новостные ресурсы, дайджесты и прочее
 published: true
-date: 2022-03-07T19:12:46.582Z
+date: 2022-03-07T19:16:29.251Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-04T20:03:41.627Z
@@ -25,9 +25,9 @@ dateCreated: 2022-03-04T20:03:41.627Z
 * [Твиттер новостей об Украине](https://twitter.com/i/lists/1498457571216134144)
 
 # Аналитика
+* [Bellingcat](https://www.bellingcat.com/category/news/?fwp_tags=ukraine%2Crussia) - знаменитое издание, занимающееся расследованиями.
+* [Огромный, ежедневно обновляемый архив статей о войне на warontherocks.com](https://warontherocks.com/understanding-the-russo-ukrainian-war-a-guide-from-war-on-the-rocks/)
 * [Kofman Michael](https://twitter.com/KofmanMichael). Делал аналитику за месяц до вторжения https://warontherocks.com/2022/01/putins-wager-in-russias-standoff-with-the-west/
 * [Твиттер аккаунт Rob Lee](https://twitter.com/RALee85)
 * https://www.youtube.com/c/MackNack - вот Майкл Наки как не в себя делает ролики по теме всю неделю
 половина - по сути интервью с экспертами. Uwaga: так как после закрытия Эха он перековался в блогера, контент может стать более эмоциональным и менее аналитическим.
-* [Bellingcat](https://www.bellingcat.com/category/news/?fwp_tags=ukraine%2Crussia) - знаменитое издание, занимающееся расследованиями.
-* [Огромный, ежедневно обновляемый архив статей о войне на warontherocks.com](https://warontherocks.com/understanding-the-russo-ukrainian-war-a-guide-from-war-on-the-rocks/)
