@@ -2,7 +2,7 @@
 title: Сведения о войне
 description: новостные ресурсы, дайджесты и прочее
 published: true
-date: 2022-03-07T06:03:28.691Z
+date: 2022-03-07T19:10:21.640Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-04T20:03:41.627Z
@@ -29,3 +29,4 @@ dateCreated: 2022-03-04T20:03:41.627Z
 * https://www.youtube.com/c/MackNack - вот Майкл Наки как не в себя делает ролики по теме всю неделю
 половина - по сути интервью с экспертами. Uwaga: так как после закрытия Эха он перековался в блогера, контент может стать более эмоциональным и менее аналитическим.
 * [Bellingcat](https://www.bellingcat.com/category/news/?fwp_tags=ukraine%2Crussia) - знаменитое издание, занимающееся расследованиями.
+* [Огромный, ежедневно обновляемый архив статей о войне на warontherocks.com](https://warontherocks.com/understanding-the-russo-ukrainian-war-a-guide-from-war-on-the-rocks/)
