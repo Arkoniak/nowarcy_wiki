@@ -2,13 +2,15 @@
 title: Международные сообщества
 description: коммьюнити, осуществляющие помощь украинцам и россиянам по миру
 published: true
-date: 2022-03-09T14:58:27.344Z
+date: 2022-03-09T15:00:00.698Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-09T14:58:27.344Z
 ---
 
 # Украинские сообщества
+
+## Помощь беженцам
 
 * Австрия: https://t.me/refugeesinAustria
 * Бельгия: https://t.me/refugeesinBelgium
@@ -18,5 +20,8 @@ dateCreated: 2022-03-09T14:58:27.344Z
 * Франция: https://t.me/refugeesinFrance
 * Швеция: https://t.me/refugeesinSweden
 * Швейцария: https://t.me/refugeesinSwitzerland
+
+## Помощь животным
+* Украина: https://t.me/savepetsofua
 
 # Российские сообщества
