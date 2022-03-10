@@ -2,7 +2,7 @@
 title: Международные сообщества
 description: коммьюнити, осуществляющие помощь украинцам и россиянам по миру
 published: true
-date: 2022-03-10T08:54:39.823Z
+date: 2022-03-10T08:59:11.021Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-09T14:58:27.344Z
@@ -15,6 +15,7 @@ dateCreated: 2022-03-09T14:58:27.344Z
 * Австрия: https://t.me/refugeesinAustria
 * Бельгия: https://t.me/refugeesinBelgium
 * Германия: https://t.me/refugees_in_Germany
+* Кипр: https://t.me/uacyprus
 * Польша: https://t.me/refugeesinPoland
 * Украина: https://t.me/refugeesinUkraine
 * Франция: https://t.me/refugeesinFrance
@@ -25,6 +26,9 @@ dateCreated: 2022-03-09T14:58:27.344Z
 * Украина: https://t.me/savepetsofua
 
 # Российские сообщества
+
+## Антивоенные сообщества
+* Кипр: https://t.me/cy_walks/7638
 
 ## Помощь с релокаций
 * Черногория: https://t.me/+3tDVz68l09Y2Y2My
