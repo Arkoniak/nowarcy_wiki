@@ -2,7 +2,7 @@
 title: Краткий список предстоящих акций
 description: 
 published: true
-date: 2022-03-09T08:19:11.180Z
+date: 2022-03-10T09:07:44.208Z
 tags: events
 editor: markdown
 dateCreated: 2022-03-05T19:15:11.954Z
@@ -10,31 +10,41 @@ dateCreated: 2022-03-05T19:15:11.954Z
 
 Эти и акции в другие дни можно найти на странице [календаря](/events/calendar).
 
-# Четверг 10 марта
-
-## Cablenet, stop broadcasting Kremlin propaganda!
-
-Ссылка на акцию: https://www.facebook.com/events/341764871210318
-
-Место: 
-- Limassol - https://goo.gl/maps/21Zo65aSxqdwtA567
-- Larnaka - https://goo.gl/maps/qNksQ9FmUa7D3tXt6
-- Nicosia - https://goo.gl/maps/bV4m4RdM3thBY9N6A
-- Paphos - https://goo.gl/maps/v9kNeStyEaD6tNxy7
-
-Время: 3:45 PM – 4:30 PM
-
-We demand Cablenet exclude RT and RT Arabic from their TV packages.
-The protest will be held in Nicosia, Limassol, Paphos and Larnaka. **Locations**:
-- Limassol - https://goo.gl/maps/21Zo65aSxqdwtA567
-- Larnaka - https://goo.gl/maps/qNksQ9FmUa7D3tXt6
-- Nicosia - https://goo.gl/maps/bV4m4RdM3thBY9N6A
-- Paphos - https://goo.gl/maps/v9kNeStyEaD6tNxy7
-Please get prepared:
-- bring posters showing Kremlin media in English
-- prepare a short speech in English (or any language) explaining why Russian propaganda kills - everybody will be able to express her thoughts using the microphone
-
 # Суббота 12 марта
+## Ukraine deserved to be in EU
+
+Место: Nicosia, [European Parliament Office in Cyprus](https://facebook.com/ep.cyprus)
+Время: 2PM
+Ссылка на акцию: https://www.facebook.com/events/1000594907499417
+
+Друзі, ваша підтримка важлива, як ніколи! Нам потрібен голос Кіпру на підтримку вступу України в ЄС!
+Україна виборола право бути членом Європейського Союзу.
+Кіпр, підтримай Україну, проголосуй за її членство в ЄС!
+Україна захищає всю Європу!
+Кіпр проголосуй - не пасуй!
+
+
+# Воскресенье 13 марта
+
+## Российская антивоенная акция
+
+Место: Лимасол, Молос, Caffe Nero
+Время: Воскресенье 13 марта 14:00
+
+После митинга все желающие могут присоединиться к украинской акции в 15:00 на площади в Старом Порту
+https://www.facebook.com/events/381004850534883
+
+Мы, граждане РФ, категорически против насилия и военных действий на территории Украины. По разным личным причинам мы проживаем на территории Республики Кипр, но Россия - наш дом, наша родина, там наши родственники и друзья. Мы продолжаем являться гражданами Российской Федерации. Мы ходим на выборы и продолжаем участвовать в жизни своей страны.
+
+Даже находясь за несколько тысяч километров, мы ощущаем боль и несправедливость от происходящего. Мы не можем спокойно смотреть, как наша Родина осуществляет военные действия на территории суверенной Украины.
+
+Мы не хотим и не будем мириться с тем, что «русский» для всего мира станет синонимом слова "агрессор". Мы искреннее желаем счастья и процветания своей стране, и считаем, что это абсолютно невозможно, пока правительство Российской Федерации взяло курс на войну.
+
+Мы требуем немедленного прекращения огня и вывода всех российских войск с территории Украины.
+
+Мы просим всех неравнодушных россиян, проживающих на территории Республики Кипр, присоединиться к нам и выразить своё резкое осуждение войне.
+
+Мы против войны!
 
 ## Всекіпрський мітинг "Жінки світу на захисті неба України"
 
