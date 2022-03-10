@@ -2,7 +2,7 @@
 title: Международные сообщества
 description: коммьюнити, осуществляющие помощь украинцам и россиянам по миру
 published: true
-date: 2022-03-10T09:28:37.231Z
+date: 2022-03-10T09:35:29.369Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-09T14:58:27.344Z
@@ -33,6 +33,7 @@ dateCreated: 2022-03-09T14:58:27.344Z
 
 ## Помощь с релокаций
 * Черногория: https://t.me/+3tDVz68l09Y2Y2My
+* Кипр: https://t.me/badcyprus/72203
 
 ## Диаспора
 
