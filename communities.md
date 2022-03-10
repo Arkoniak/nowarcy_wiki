@@ -2,7 +2,7 @@
 title: Международные сообщества
 description: коммьюнити, осуществляющие помощь украинцам и россиянам по миру
 published: true
-date: 2022-03-10T09:35:29.369Z
+date: 2022-03-10T09:40:16.419Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-09T14:58:27.344Z
@@ -29,7 +29,10 @@ dateCreated: 2022-03-09T14:58:27.344Z
 
 ## Русскоязычные сообщества
 * Австралия и Новая Зеландия: https://www.facebook.com/groups/807251726540528
-* Кипр: https://t.me/cy_walks/7638
+* Кипр: 
+	* Нет Войне: https://t.me/cy_walks/7638
+  * Визовые и правовые вопросы: https://t.me/cylaw
+  * Общие вопросы: https://t.me/badcyprus/72203
 
 ## Помощь с релокаций
 * Черногория: https://t.me/+3tDVz68l09Y2Y2My
