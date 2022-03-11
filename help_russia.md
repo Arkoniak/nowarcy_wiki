@@ -2,7 +2,7 @@
 title: Помощь в России
 description: Поддержка оппозиции и антипропаганда
 published: true
-date: 2022-03-09T13:17:38.834Z
+date: 2022-03-11T17:32:54.098Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T15:43:13.854Z
@@ -129,6 +129,8 @@ https://t.me/UkraineUsefulFiles
 Вот рандомные ресурсы неплохие на мой взгляд помимо тех что все и так знают
 
 * Общие принципы как общаться с оппонентами https://t.me/team_milov/1003
+
+* еще от Милова https://www.youtube.com/watch?v=-ydqsj9r_wQ
 
 * Вот относително подробный разбор про геноцид https://provereno.media/2022/02/27/podvergalis-li-zhiteli-donbassa-genocidu-so-storony-ukrainy/
 
