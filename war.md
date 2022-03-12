@@ -2,7 +2,7 @@
 title: Сведения о войне
 description: новостные ресурсы, дайджесты и прочее
 published: true
-date: 2022-03-07T19:16:29.251Z
+date: 2022-03-12T15:38:17.293Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-04T20:03:41.627Z
@@ -23,6 +23,7 @@ dateCreated: 2022-03-04T20:03:41.627Z
 * [OSINTtechnical](https://twitter.com/Osinttechnical) - твиттер аккаунт
 * [Твиттер аккаунты украинских журналистов](https://twitter.com/i/lists/1497499544950644746)
 * [Твиттер новостей об Украине](https://twitter.com/i/lists/1498457571216134144)
+* Некоторые независимые русскоязычные издания дают аналитику. Список можно посмотреть [здесь](/journalism).
 
 # Аналитика
 * [Bellingcat](https://www.bellingcat.com/category/news/?fwp_tags=ukraine%2Crussia) - знаменитое издание, занимающееся расследованиями.
