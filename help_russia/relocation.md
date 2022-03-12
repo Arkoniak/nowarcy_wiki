@@ -2,7 +2,7 @@
 title: Релокация
 description: список ресурсов, где предлагаются различные варианты релокации и поиска работы за пределами РФ.
 published: true
-date: 2022-03-12T15:30:17.293Z
+date: 2022-03-12T15:40:41.319Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-09T13:15:52.462Z
@@ -20,6 +20,7 @@ dateCreated: 2022-03-09T13:15:52.462Z
 	* https://t.me/relogame_georgia - релокация в Грузию
   * https://t.me/relogame_armenia - релокация в Армению
   * https://t.me/georgia_finance
+  * https://t.me/nlevshitstelegram
 * Черногория: телеграм канал [2022 Relocation/Черногория](https://t.me/+3tDVz68l09Y2Y2My)
 * https://twitter.com/MordorEscape - твиттер "Пора релоцироваться" (Твиттер правда уже почти запрещен? Но через VPN можно посмотреть наверное). То же, но в телеграмме https://t.me/mordor_escape
 * Телеграм канал [Удалёнка и релокация](https://t.co/eOzfyDAOlb)
