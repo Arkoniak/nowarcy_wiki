@@ -2,7 +2,7 @@
 title: Международные сообщества
 description: коммьюнити, осуществляющие помощь украинцам и россиянам по миру
 published: true
-date: 2022-03-10T13:45:32.783Z
+date: 2022-03-12T14:43:20.052Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-09T14:58:27.344Z
@@ -32,7 +32,10 @@ dateCreated: 2022-03-09T14:58:27.344Z
 * Кипр: 
 	* Нет Войне: https://t.me/cy_walks/7638
   * Визовые и правовые вопросы: https://t.me/cylaw
-  * Общие вопросы: https://t.me/badcyprus/72203
+  * Большой чат IT community (и не только): https://t.me/badcyprus/72203
+  * Наши на Кипре https://t.me/+67tP1bEp3EJiOGUy
+* Объединенные Арабские Эмираты (ОАЭ):
+	* Наши в ОАЭ, ДУБАЙ: https://t.me/+GEXyOQMPKy0xOWZi
 * Польша:
 	* Краков: https://www.facebook.com/groups/362046909102044/?ref=share
 * Черногория:
