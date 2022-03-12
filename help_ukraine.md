@@ -2,7 +2,7 @@
 title: Помощь Украине
 description: Информация о волонтерстве, донатах, гуманитарной помощи и т.п.
 published: true
-date: 2022-03-12T15:50:19.263Z
+date: 2022-03-12T15:52:56.462Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T15:23:41.362Z
@@ -53,6 +53,7 @@ https://help-ukraine-cyprus.notion.site/e83a164efab8487da67fe602d6cf7af3
 * [Voices of Children Ukraine](https://voices.org.ua/en/)
 * [United Help Ukraine](https://unitedhelpukraine.org)
 * [Razom for Ukraine](https://razomforukraine.org)
+* [Акция от Amazon](https://www.amazon.com/hz/wishlist/ls/2CO6LORBAFG3Q?ref_=wl_share)
 
 ## Агрегаторы ресурсов для помощи Украине
 
