@@ -2,11 +2,18 @@
 title: Петиции
 description: Петиции и различные обращения
 published: true
-date: 2022-03-06T07:19:03.769Z
+date: 2022-03-14T14:24:11.587Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T16:12:13.742Z
 ---
+
+# Сайты на которых можно размещать петиции и обращения
+* Петиции:
+	* http://Wemoveeurope.com
+	* http://Change.org
+* Открытое письмо (сбор подписей):
+	* https://openletter.live/about
 
 # Петиции
 * Петиция россиян ["НЕТ ВОЙНЕ!"](https://www.change.org/p/%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%D0%B2%D0%BE%D0%B9%D0%BD%D1%83-%D1%81-%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%BE%D0%B9-2ce0a2d7-b957-4e23-981a-c67a26e2b0b7)
@@ -80,5 +87,6 @@ https://docs.google.com/document/d/1yPRrSkzDVOBJSbjwkZZ7AYm172nMFhD-BrONFk7SVfg/
 
 Формальное, пусть даже чисто символическое обращение к послу с требованиями не помешает, в суде потом пригодится в конце-концов.
 
-> Способ передачи надо придумать.
-{.is-info}
+## Ответ от посла Осадчего.
+
+https://drive.google.com/file/d/1gb-JS7-VR_7WULqKAX54Pdgx0suYT-lu/view?usp=sharing
