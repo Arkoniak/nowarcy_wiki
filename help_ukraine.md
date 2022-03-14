@@ -2,7 +2,7 @@
 title: Помощь Украине
 description: Информация о волонтерстве, донатах, гуманитарной помощи и т.п.
 published: true
-date: 2022-03-12T15:52:56.462Z
+date: 2022-03-14T07:59:14.862Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T15:23:41.362Z
@@ -11,6 +11,8 @@ dateCreated: 2022-03-03T15:23:41.362Z
 # Чаты и сайты
 * С вопросами о непосредственной помощи Украине, ее жителям на родине и за рубежом хорошо рабираются тут https://t.me/uacyprus
 * то же самое в facebook https://www.facebook.com/groups/uacyprus/
+* Чат CY4UA: https://t.me/chat_help_ukranians_cyprus
+* Канал CY4UA: https://t.me/help_ukrainians_cyprus
 * Большой сайт, где собрано много информации для украинцев на Кипре https://ukr.cy/
 
 # Волонтёрство
@@ -18,7 +20,9 @@ dateCreated: 2022-03-03T15:23:41.362Z
 В случае, если информация в этой вики не будет обновляться вовремя, наиболее актуальные сведения можно найти в https://t.me/cy_walks/8089
 
 ## CY4UA
-https://cy4ua.com/?lang=en
+* сайт: https://cy4ua.com/?lang=en
+* Чат CY4UA: https://t.me/chat_help_ukranians_cyprus
+* Канал CY4UA: https://t.me/help_ukrainians_cyprus
 
 CY4UA is an international group of volunteers who are based in Cyprus and who share one common goal – to help all those in need, affected by Russian military aggression in Ukraine. We believe in peace and humanity.
 
