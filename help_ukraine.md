@@ -2,7 +2,7 @@
 title: Помощь Украине
 description: Информация о волонтерстве, донатах, гуманитарной помощи и т.п.
 published: true
-date: 2022-03-14T08:14:38.148Z
+date: 2022-03-14T09:49:16.071Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T15:23:41.362Z
@@ -33,6 +33,10 @@ If you are a Ukrainian in Cyprus looking for shelter, accommodation, or you requ
 ### Ларнака
 Якщо Ларнака - то мені пишіть в оп
 Ми волонтёры  _ @annette1304 - телеграм
+
+### Лимассол
+Пишите в личку. Лимассол. Собираем. 
+https://www.instagram.com/p/Ca19jzXtDb8/?utm_medium=copy_link
 
 ## I can help
 Беларусский сайт, посвященный поиску и предоставлению жилья для беженцев из Украины https://icanhelp.host/
