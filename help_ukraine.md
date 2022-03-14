@@ -2,7 +2,7 @@
 title: Помощь Украине
 description: Информация о волонтерстве, донатах, гуманитарной помощи и т.п.
 published: true
-date: 2022-03-14T07:59:14.862Z
+date: 2022-03-14T08:14:38.148Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T15:23:41.362Z
@@ -29,6 +29,10 @@ CY4UA is an international group of volunteers who are based in Cyprus and who sh
 If you are a volunteer willing to provide accommodation, make a donation, provide food, medicine or other basic supplies, assist with logistics or help in any other way, please complete the form below and our coordinator will contact you soon. 
 
 If you are a Ukrainian in Cyprus looking for shelter, accommodation, or you require basic supplies or financial assistance, please complete the form below and our coordinator will contact you soon.
+
+### Ларнака
+Якщо Ларнака - то мені пишіть в оп
+Ми волонтёры  _ @annette1304 - телеграм
 
 ## I can help
 Беларусский сайт, посвященный поиску и предоставлению жилья для беженцев из Украины https://icanhelp.host/
