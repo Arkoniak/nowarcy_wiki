@@ -2,7 +2,7 @@
 title: Помощь Украине
 description: Информация о волонтерстве, донатах, гуманитарной помощи и т.п.
 published: true
-date: 2022-03-14T09:49:49.742Z
+date: 2022-03-15T12:00:21.583Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T15:23:41.362Z
@@ -40,6 +40,14 @@ https://www.instagram.com/p/Ca19jzXtDb8/?utm_medium=copy_link
 
 ## I can help
 Беларусский сайт, посвященный поиску и предоставлению жилья для беженцев из Украины https://icanhelp.host/
+
+### Предложения работы
+
+Help Ukrainians with work in Cyprus! 🇨🇾🇺🇦
+▫️ Hello, you probably know that about 3,000 Ukrainians have now arrived in Cyprus and, basically, everyone is looking for work.  I decided to create a telegram group for convenient posting of announcements, both for those who have been living and working in Cyprus for a long time and, perhaps, can immediately offer various vacancies (including remote work), and for companies that are looking for employees in various industries. I believe that everyone can try to help in some way! Subscribe to the telegram channel and post your resumes or free vacancies!  Also, please contact me with any questions!  I will be grateful for the repost and share! Thank you all! 
+◽️ https://t.me/+j5YLKjaGw2Y4YzI8
+▫️ Здравствуйте, вы наверное в курсе, что на Кипр сейчас заехало около 3000 украинцев и, в основном, все ищут работу. Я Christina Barbash решила создать группу в телеграмме для удобного размещения обьявлений, как для тех, кто уже давно живет и работает на Кипре и, возможно, может сразу предложить различные вакансии (в том числе удаленку), так и для компаний, которые ищут сотрудников в различных индустриях. Я считаю, что каждый может попробовать хоть чем-то помочь! Подписывайтесь на телеграм канал и размещайте свои резюме или свободные вакансии! Так же по всем вопросам обращайтесь ко мне! Буду благодарна за репост!Всем спасибо! 
+◽️ https://t.me/+j5YLKjaGw2Y4YzI8
 
 # Помощь в кипрских организациях
 
