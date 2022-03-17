@@ -2,7 +2,7 @@
 title: Помощь Украине
 description: Информация о волонтерстве, донатах, гуманитарной помощи и т.п.
 published: true
-date: 2022-03-15T12:00:21.583Z
+date: 2022-03-17T10:47:30.755Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T15:23:41.362Z
@@ -18,6 +18,17 @@ dateCreated: 2022-03-03T15:23:41.362Z
 # Волонтёрство
 
 В случае, если информация в этой вики не будет обновляться вовремя, наиболее актуальные сведения можно найти в https://t.me/cy_walks/8089
+
+## Временное жильё для украинцев на Кипре
+
+### Ukraine Take Shelter
+
+Ссылка: https://www.ukrainetakeshelter.com/
+
+Комментарий: Был создан сайт https://www.ukrainetakeshelter.com/ на котором можно зарегаться, чтобы предложить временное жилье для украинцев. Мы там зарегались и достаточно часто звонят, уже договорились поселить у себя людей.
+
+### I can help
+Белорусский сайт, посвященный поиску и предоставлению жилья для беженцев из Украины https://icanhelp.host/
 
 ## CY4UA
 * сайт: https://cy4ua.com/?lang=en
@@ -37,9 +48,6 @@ If you are a Ukrainian in Cyprus looking for shelter, accommodation, or you requ
 ### Лимассол
 Пишите в личку. Лимассол. Собираем одежду беженцам.
 https://www.instagram.com/p/Ca19jzXtDb8/?utm_medium=copy_link
-
-## I can help
-Беларусский сайт, посвященный поиску и предоставлению жилья для беженцев из Украины https://icanhelp.host/
 
 ### Предложения работы
 
