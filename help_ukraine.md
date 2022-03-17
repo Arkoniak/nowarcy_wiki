@@ -2,7 +2,7 @@
 title: Помощь Украине
 description: Информация о волонтерстве, донатах, гуманитарной помощи и т.п.
 published: true
-date: 2022-03-17T10:47:30.755Z
+date: 2022-03-17T10:52:51.661Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T15:23:41.362Z
@@ -88,6 +88,6 @@ https://help-ukraine-cyprus.notion.site/e83a164efab8487da67fe602d6cf7af3
 * https://linktr.ee/RazomForUkraine
 * https://how-to-help-ukraine-now.super.site
 
-Некоторые ресурсы можно найти на странице [релокации](help_russia/relocation), в частности 
+Некоторые ресурсы можно найти на странице [релокации](/help_russia/relocation), в частности 
 * https://resourcelist.web.app/
 * https://truerussia.org/
