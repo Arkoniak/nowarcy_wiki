@@ -2,7 +2,7 @@
 title: Помощь Украине
 description: Информация о волонтерстве, донатах, гуманитарной помощи и т.п.
 published: true
-date: 2022-03-17T10:52:51.661Z
+date: 2022-03-17T10:54:56.530Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T15:23:41.362Z
@@ -14,6 +14,7 @@ dateCreated: 2022-03-03T15:23:41.362Z
 * Чат CY4UA: https://t.me/chat_help_ukranians_cyprus
 * Канал CY4UA: https://t.me/help_ukrainians_cyprus
 * Большой сайт, где собрано много информации для украинцев на Кипре https://ukr.cy/
+* Много ссылок есть на странице [международных сообществ](/communities)
 
 # Волонтёрство
 
