@@ -2,7 +2,7 @@
 title: Обращение в посольство
 description: 
 published: true
-date: 2022-03-16T19:52:04.929Z
+date: 2022-03-17T15:01:14.561Z
 tags: address, embassy, letter
 editor: markdown
 dateCreated: 2022-03-03T18:34:51.693Z
@@ -19,4 +19,5 @@ dateCreated: 2022-03-03T18:34:51.693Z
 * к 15 марта у нас был готов подробный ответ на нелепые заявления Осадчего [Осадчему_2022-03-15.docx](https://docs.google.com/document/d/1tvJYkigGKQdKgzFRDMGiLrkZu3WKxgNl/edit?usp=sharing&ouid=104345030672209787197&rtpof=true&sd=true)
 * предполагается собирать живые подписи на ближайших акциях
 * 16 марта кипрские СМИ опубликовали статью про заявления Осадчего с угрозами Кипру https://cyprus-mail.com/2022/03/16/osadchiy-warns-that-moscow-is-keeping-score-recording-nicosias-positions/#disqus_thread
+* 17 марта ответ послу был опубликован на платформе дял сбора подписей https://the.organise.network/campaigns/teamup-lies-of-russian-ambassador-in-cyprus-about-war-in-ukraine
 * продолжение следует ...
