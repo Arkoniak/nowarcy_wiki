@@ -2,7 +2,7 @@
 title: Международные сообщества
 description: коммьюнити, осуществляющие помощь украинцам и россиянам по миру
 published: true
-date: 2022-03-12T15:26:52.615Z
+date: 2022-03-17T11:00:17.273Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-09T14:58:27.344Z
@@ -12,15 +12,132 @@ dateCreated: 2022-03-09T14:58:27.344Z
 
 ## Помощь беженцам
 
-* Австрия: https://t.me/refugeesinAustria
-* Бельгия: https://t.me/refugeesinBelgium
-* Германия: https://t.me/refugees_in_Germany
-* Кипр: https://t.me/uacyprus
-* Польша: https://t.me/refugeesinPoland
-* Украина: https://t.me/refugeesinUkraine
-* Франция: https://t.me/refugeesinFrance
-* Швеция: https://t.me/refugeesinSweden
-* Швейцария: https://t.me/refugeesinSwitzerland
+🇪🇺 Общий канал по ЕС: https://t.me/ukr_emigration
+
+Австрия 🇦🇹
+- https://t.me/ukraineat
+- https://t.me/austriaukr
+- https://t.me/ukraineat
+- https://t.me/refugeesinAustria
+
+Бельгия 🇧🇪
+- https://t.me/ukrainciwbelgii
+- https://t.me/refugeesinBelgium
+
+Болгария 🇧🇬
+- https://www.facebook.com/groups/699929631375624/
+- https://www.facebook.com/groups/338927668246444/
+- https://www.facebook.com/OpenDataAssociation/
+
+Венгрия 🇭🇺
+- https://t.me/hungaryua
+- https://t.me/helpinhungary
+- https://t.me/HUvolunteerswithUA
+- https://help.unhcr.org/hungary/uk/
+
+Германия 🇩🇪
+- https://t.me/refugees_in_Germany
+- https://t.me/+ZM7gZZfM8Wc2YWM6
+- https://t.me/germanyhelpsukraine
+- https://t.me/ru_de_help
+- https://t.me/helpUkraine_Gemany
+
+- https://www.facebook.com/groups/helpukrainiansingermany
+- https://www.facebook.com/groups/1257731608089510
+- https://www.hamburg.de/ukraine/15922988/unterstuetzung-gefluechtete
+
+Города Германии:
+👉🏼 Берлин: https://t.me/+Mx6WD9KWQzQ4ZTVi
+👉🏼 https://t.me/ukrainehelpberlin
+👉🏼 Штутгарт: https://t.me/helpforukraine22
+👉🏼 Нюрнберг: https://t.me/help_in_Nuremberg_UA
+👉🏼 Кельн: https://t.me/cologne_help
+👉🏼 Хайльбронн (Heilbronn): https://t.me/+zc9HnLCyckMzMGRi
+
+Дания
+- https://t.me/refugeesinDenmark
+
+Испания 🇪🇸
+- https://t.me/infohelpBCN
+- https://t.me/espana_ucrania
+
+Города Испании:
+👉🏼 Барселона: https://t.me/infohelpBCN
+👉🏼 Валенсия: https://t.me/ukrvalencia
+👉🏼 Мадрид https://t.me/ukrmadrid
+👉🏼 Аликанте, Бенидорм, Валенсия, Гранад: https://t.me/Alvalben
+
+Италия🇮🇹
+- https://t.me/dodomu_italia_ucraina
+
+Кипр 🇨🇾
+- https://t.me/uacyprus
+
+Латвия 🇱🇻
+https://www.ukraine-latvia.com/uk
+
+Молдова 🇲🇩
+- https://t.me/moldovaukraina
+- https://ua-md-help.info/
+- https://dopomoga.gov.md
+
+Польша 🇵🇱
+https://t.me/refugeesinPoland
+
+Города Польши:
+👉🏼 Быдгощ: https://www.facebook.com/groups/338496363010331
+👉🏼 Варшава:
+- https://www.facebook.com/groups/warszawa.pokoje.mieszkania.wynajem
+- https://www.facebook.com/groups/zasobygrupa/
+
+👉🏼 Вроцлав: https://www.facebook.com/groups/277111145806430
+👉🏼 Гданьск, Гдыня, Сопот: https://www.facebook.com/groups/673244999502092
+👉🏼 Катовице: https://www.facebook.com/groups/1404384713150789
+👉🏼 Краков: https://www.facebook.com/groups/wynajemkrakow
+👉🏼 Лодзь: https://www.facebook.com/groups/ibuyers
+👉🏼 Люблин: https://www.facebook.com/groups/1599244123639245
+👉🏼 Познань: https://www.facebook.com/groups/1409735869249950
+👉🏼 Щецин: https://www.facebook.com/groups/265144983644555
+
+- https://ukrainesupport.net/uk/
+- https://help.unhcr.org/poland/uk/
+
+Португалия 🇵🇹
+- https://t.me/+j3_sMgK6QG8yMmVi
+- https://www.sef.pt/en/Pages/homepage.aspx
+
+Румыния 🇷🇴
+- https://t.me/UkrainiansinRomania
+- https://www.facebook.com/groups/unitipentruucraina
+- https://t.me/romaniahelp2022 
+- https://t.me/+sd7n-wZZiPxiZjAy 
+
+Словакия 🇸🇰
+- https://t.me/ukrajinci_na_slovensku
+- https://www.ukraineslovakia.sk
+
+Словения 🇸🇰
+- https://www.facebook.com/groups/179196962897968
+
+Украина 🇺🇦
+- https://t.me/refugeesinUkraine
+
+Франция 🇫🇷
+- https://t.me/ukrainieninfrance
+- https://t.me/refugeesinFrance
+- Париж: https://t.me/+KUk3d_a3w7dkYWI0
+
+Чехия 🇨🇿
+- https://t.me/+eAVhTnKzhEFkNWMy
+
+Швейцария 🇨🇭
+- https://t.me/refugeesinSwitzerland
+ 
+Швеция 🇸🇪
+- https://t.me/refugeesinSweden
+
+Бразилия 🇧🇷
+- https://t.me/uarefugee
 
 ## Помощь животным
 * Украина: https://t.me/savepetsofua
