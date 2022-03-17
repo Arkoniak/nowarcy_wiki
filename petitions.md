@@ -2,7 +2,7 @@
 title: Петиции
 description: Петиции и различные обращения
 published: true
-date: 2022-03-14T15:13:35.995Z
+date: 2022-03-17T10:44:12.047Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T16:12:13.742Z
@@ -14,6 +14,8 @@ dateCreated: 2022-03-03T16:12:13.742Z
 	* http://Change.org
 * Открытое письмо (сбор подписей):
 	* https://openletter.live/about
+  * https://openletter.earth/
+  * https://organise.network/start-a-campaign
 
 # Петиции
 * Петиция россиян ["НЕТ ВОЙНЕ!"](https://www.change.org/p/%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%D0%B2%D0%BE%D0%B9%D0%BD%D1%83-%D1%81-%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%BE%D0%B9-2ce0a2d7-b957-4e23-981a-c67a26e2b0b7)
