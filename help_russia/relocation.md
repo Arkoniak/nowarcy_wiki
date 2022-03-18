@@ -2,7 +2,7 @@
 title: Релокация
 description: список ресурсов, где предлагаются различные варианты релокации и поиска работы за пределами РФ.
 published: true
-date: 2022-03-18T08:33:52.756Z
+date: 2022-03-18T08:37:26.564Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-09T13:15:52.462Z
@@ -31,6 +31,7 @@ dateCreated: 2022-03-09T13:15:52.462Z
 * Ещё небольшой твит, в котором стараются собрать ссылки на предложения о работе с релокацией: https://twitter.com/gotonomad/status/1501524868063502342?s=20&t=AwR4-tS890Xq5OcYJKhq1Q
 * Ещё один небольшой твит, про помощь с работой в Голландии: https://twitter.com/oliora/status/1502194400360898562?t=bLbP7Z5r9_yTxvNCJ95mMA&s=09
 * Помощь от RunaCapital (на момент объявления у них было больше 500 вакансий и они призывали своих партнёров присоединиться к инициативе): https://www.linkedin.com/posts/runacapital_many-talents-are-relocating-to-other-countries-activity-6907330687737937920-eBTN?utm_source=linkedin_share&utm_medium=member_desktop_web. "Many talents are relocating to other countries from Ukraine, Belarus and Russia due to ongoing war in the region. Their lives have changed completely, people lost their homes and jobs. To support them during this tragedy, we urge our portfolio companies to pay special attention to talents from the affected countries and provide remote jobs or relocation packages to candidates. If you are urgently looking for a job in the European tech industry, please send your CV to our recruitment manager Anna Elokhina (ae@runacap.com). She will route it within our portfolio, which currently has 500+ open vacancies."
+* С каждым днем возникает все больше ресурсов и инициатив для помощи украинцам, а также россиянам и беларусам, желающим продолжать важнейшую активисткую работу в своей стране или за ее пределами. Дополняем этот список художественной  резиденцией для украинцев, россиян и и беларусов. [Artists at Risk](https://artistsatrisk.org/2022/02/26/ukraine-emergency-resources-for-artists-and-cultural-workers/?lang=en) собирает [список](https://docs.google.com/document/d/1zDP7jpiRj6M_NCTxY5P6A3IDjSaHLSvIsri-Vzb-A7g/edit#) студий и организаций, которые предоставляют в экстренном порядке студии и жильё для художников и кураторов.
 
 ## Bysol.org
 САЙТ ПРО ЭВАКУАЦИЮ ИЗ БЕЛАРУСИ, РОССИИ И УКРАИНЫ
