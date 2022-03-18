@@ -2,7 +2,7 @@
 title: Релокация
 description: список ресурсов, где предлагаются различные варианты релокации и поиска работы за пределами РФ.
 published: true
-date: 2022-03-17T10:49:52.624Z
+date: 2022-03-18T08:33:52.756Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-09T13:15:52.462Z
@@ -32,7 +32,7 @@ dateCreated: 2022-03-09T13:15:52.462Z
 * Ещё один небольшой твит, про помощь с работой в Голландии: https://twitter.com/oliora/status/1502194400360898562?t=bLbP7Z5r9_yTxvNCJ95mMA&s=09
 * Помощь от RunaCapital (на момент объявления у них было больше 500 вакансий и они призывали своих партнёров присоединиться к инициативе): https://www.linkedin.com/posts/runacapital_many-talents-are-relocating-to-other-countries-activity-6907330687737937920-eBTN?utm_source=linkedin_share&utm_medium=member_desktop_web. "Many talents are relocating to other countries from Ukraine, Belarus and Russia due to ongoing war in the region. Their lives have changed completely, people lost their homes and jobs. To support them during this tragedy, we urge our portfolio companies to pay special attention to talents from the affected countries and provide remote jobs or relocation packages to candidates. If you are urgently looking for a job in the European tech industry, please send your CV to our recruitment manager Anna Elokhina (ae@runacap.com). She will route it within our portfolio, which currently has 500+ open vacancies."
 
-#### Bysol.org
+## Bysol.org
 САЙТ ПРО ЭВАКУАЦИЮ ИЗ БЕЛАРУСИ, РОССИИ И УКРАИНЫ
 
 https://evacuation.bysol.org
@@ -41,7 +41,7 @@ https://evacuation.bysol.org
 
 Мы собрали всю инфу, которую наработали с начала войны и залили на специальный сайт (https://evacuation.bysol.org/), на котором она всегда будет под рукой. На сайте простые и понятные инструкции и руководства к действиям — сохраните его в закладки и передайте знакомым, которые эвакуируются."
 
-#### Антивоенный комитет России, проект "Ковчег"
+## Антивоенный комитет России, проект "Ковчег"
 
 ссылка: https://antiwarcommittee.info/kovcheg/
 
@@ -59,7 +59,19 @@ https://evacuation.bysol.org
 	* Ответить на другие юридические вопросы
 	* Познакомить с другими эмигрантами
 
-#### Настоящая Россия
+Также есть телеграм канал: https://t.me/ArkHelps
+
+👉 О чём этот канал: как наладить жизнь в новых странах, найти работу и получить бесплатную помощь
+
+👉 Как эмигранту попросить о помощи: https://t.me/EmigrantHelpBot
+
+👉 Как волонтёру предложить помощь: https://t.me/kovcheghelp
+
+👉 Куда прислать своё предложение: https://t.me/RusRellocateHelp
+
+👉 Что такое «Ковчег» и как поддержать его финансово: https://antiwarcommittee.info/kovcheg/
+
+## Настоящая Россия
 
 Ссылка: https://truerussia.org/
 
