@@ -2,7 +2,7 @@
 title: Петиции
 description: Петиции и различные обращения
 published: true
-date: 2022-03-17T10:44:12.047Z
+date: 2022-03-19T20:38:03.245Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T16:12:13.742Z
@@ -22,6 +22,7 @@ dateCreated: 2022-03-03T16:12:13.742Z
 * Всемирная петиция к НАТО о [закрытии неба на Украиной](https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine)
 * Всемирная петиция к ООН [People around the world are appealing to the UN to exclude Russia from the UN Security Council ](https://www.openpetition.eu/petition/online/people-around-the-world-are-appealing-to-the-un-to-exclude-russia-from-the-un-security-council)
 * Петиция о депортации путинских детей из Швейцарии [Switzerland, why did you shelter the helpers of the Putin regime??! ](https://www.change.org/p/martin-hilti-schweiz-warum-hast-du-die-helfer-des-putin-regimes-unterschlupf-genommen?utm_content=cl_sharecopy_32652825_ru-RU%3A3&recruiter=1257362203&recruited_by_id=06900060-a304-11ec-bf47-254789e3e16c&utm_source=share_petition&utm_medium=copylink&utm_campaign=psf_combo_share_initial&utm_term=752ca548db5c402b9ae3d3e1e2192687&share_bandit_exp=initial-32652825-en-US)
+* О проведении суда над Путиным: [Put Putin on trial](https://secure.avaaz.org/campaign/en/prosecute_putin_loc/?foRWdhb)
 
 # Письма
 Важный сайт: https://we-are-not-alone.ru/
