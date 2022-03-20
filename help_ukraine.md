@@ -2,7 +2,7 @@
 title: Помощь Украине
 description: Информация о волонтерстве, донатах, гуманитарной помощи и т.п.
 published: true
-date: 2022-03-17T10:54:56.530Z
+date: 2022-03-20T11:38:21.257Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T15:23:41.362Z
@@ -15,6 +15,7 @@ dateCreated: 2022-03-03T15:23:41.362Z
 * Канал CY4UA: https://t.me/help_ukrainians_cyprus
 * Большой сайт, где собрано много информации для украинцев на Кипре https://ukr.cy/
 * Много ссылок есть на странице [международных сообществ](/communities)
+* Чехия: поиск помощи для украинских беженцев https://www.umapa.eu/, описание сервиса https://www.prahapraha.cz/novosti/obshhestvo/cheshskij-startap-sozdal-sajt-kartu-dlya-bezhenczev-dlya-poiska-detskih-sadov-shkol-i-vrachej
 
 # Волонтёрство
 
