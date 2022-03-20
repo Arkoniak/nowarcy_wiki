@@ -2,7 +2,7 @@
 title: Международные сообщества
 description: коммьюнити, осуществляющие помощь украинцам и россиянам по миру
 published: true
-date: 2022-03-20T14:00:42.747Z
+date: 2022-03-20T14:03:01.119Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-09T14:58:27.344Z
@@ -56,14 +56,13 @@ dateCreated: 2022-03-09T14:58:27.344Z
 - https://www.facebook.com/groups/helpukrainiansingermany
 - https://www.facebook.com/groups/1257731608089510
 - https://www.hamburg.de/ukraine/15922988/unterstuetzung-gefluechtete
-
-Города Германии:
-👉🏼 Берлин: https://t.me/+Mx6WD9KWQzQ4ZTVi
-👉🏼 https://t.me/ukrainehelpberlin
-👉🏼 Штутгарт: https://t.me/helpforukraine22
-👉🏼 Нюрнберг: https://t.me/help_in_Nuremberg_UA
-👉🏼 Кельн: https://t.me/cologne_help
-👉🏼 Хайльбронн (Heilbronn): https://t.me/+zc9HnLCyckMzMGRi
+- Города Германии:
+	- 👉🏼 Берлин: https://t.me/+Mx6WD9KWQzQ4ZTVi
+	- 👉🏼 https://t.me/ukrainehelpberlin
+	- 👉🏼 Штутгарт: https://t.me/helpforukraine22
+	- 👉🏼 Нюрнберг: https://t.me/help_in_Nuremberg_UA
+	- 👉🏼 Кельн: https://t.me/cologne_help
+	- 👉🏼 Хайльбронн (Heilbronn): https://t.me/+zc9HnLCyckMzMGRi
 
 Дания
 - https://t.me/refugeesinDenmark
@@ -76,12 +75,11 @@ dateCreated: 2022-03-09T14:58:27.344Z
 - https://t.me/infohelpBCN
 - https://t.me/espana_ucrania
 - https://t.me/WelcomeSpain
-
-Города Испании:
-👉🏼 Барселона: https://t.me/infohelpBCN
-👉🏼 Валенсия: https://t.me/ukrvalencia
-👉🏼 Мадрид https://t.me/ukrmadrid
-👉🏼 Аликанте, Бенидорм, Валенсия, Гранад: https://t.me/Alvalben
+- Города Испании:
+	- 👉🏼 Барселона: https://t.me/infohelpBCN
+	- 👉🏼 Валенсия: https://t.me/ukrvalencia
+	- 👉🏼 Мадрид https://t.me/ukrmadrid
+	- 👉🏼 Аликанте, Бенидорм, Валенсия, Гранад: https://t.me/Alvalben
 
 Италия🇮🇹
 - https://t.me/dodomu_italia_ucraina
@@ -115,21 +113,19 @@ dateCreated: 2022-03-09T14:58:27.344Z
 Польша 🇵🇱
 - https://t.me/refugeesinPoland
 - https://t.me/WelcomePoland
-
-Города Польши:
-👉🏼 Быдгощ: https://www.facebook.com/groups/338496363010331
-👉🏼 Варшава:
-- https://www.facebook.com/groups/warszawa.pokoje.mieszkania.wynajem
-- https://www.facebook.com/groups/zasobygrupa/
-
-👉🏼 Вроцлав: https://www.facebook.com/groups/277111145806430
-👉🏼 Гданьск, Гдыня, Сопот: https://www.facebook.com/groups/673244999502092
-👉🏼 Катовице: https://www.facebook.com/groups/1404384713150789
-👉🏼 Краков: https://www.facebook.com/groups/wynajemkrakow
-👉🏼 Лодзь: https://www.facebook.com/groups/ibuyers
-👉🏼 Люблин: https://www.facebook.com/groups/1599244123639245
-👉🏼 Познань: https://www.facebook.com/groups/1409735869249950
-👉🏼 Щецин: https://www.facebook.com/groups/265144983644555
+- Города Польши:
+	- 👉🏼 Быдгощ: https://www.facebook.com/groups/338496363010331
+	- 👉🏼 Варшава:
+		- https://www.facebook.com/groups/warszawa.pokoje.mieszkania.wynajem
+		- https://www.facebook.com/groups/zasobygrupa/
+	- 👉🏼 Вроцлав: https://www.facebook.com/groups/277111145806430
+	- 👉🏼 Гданьск, Гдыня, Сопот: https://www.facebook.com/groups/673244999502092
+	- 👉🏼 Катовице: https://www.facebook.com/groups/1404384713150789
+	- 👉🏼 Краков: https://www.facebook.com/groups/wynajemkrakow
+	- 👉🏼 Лодзь: https://www.facebook.com/groups/ibuyers
+	- 👉🏼 Люблин: https://www.facebook.com/groups/1599244123639245
+	- 👉🏼 Познань: https://www.facebook.com/groups/1409735869249950
+	- 👉🏼 Щецин: https://www.facebook.com/groups/265144983644555
 
 - https://ukrainesupport.net/uk/
 - https://help.unhcr.org/poland/uk/
