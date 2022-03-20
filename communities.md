@@ -2,7 +2,7 @@
 title: Международные сообщества
 description: коммьюнити, осуществляющие помощь украинцам и россиянам по миру
 published: true
-date: 2022-03-20T14:03:01.119Z
+date: 2022-03-20T14:04:39.869Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-09T14:58:27.344Z
@@ -14,38 +14,38 @@ dateCreated: 2022-03-09T14:58:27.344Z
 
 🇪🇺 Общий канал по ЕС: https://t.me/ukr_emigration
 
-Австрия 🇦🇹
+### Австрия 🇦🇹
 - https://t.me/ukraineat
 - https://t.me/austriaukr
 - https://t.me/ukraineat
 - https://t.me/refugeesinAustria
 - https://t.me/welcomeAustria
 
-Бельгия 🇧🇪
+### Бельгия 🇧🇪
 - https://t.me/ukrainciwbelgii
 - https://t.me/refugeesinBelgium
 - https://t.me/WelcomeBelgium
 
-Болгария 🇧🇬
+### Болгария 🇧🇬
 - https://www.facebook.com/groups/699929631375624/
 - https://www.facebook.com/groups/338927668246444/
 - https://www.facebook.com/OpenDataAssociation/
 - https://t.me/WelcomeBulgaria
 
-Бразилия 🇧🇷
+### Бразилия 🇧🇷
 - https://t.me/uarefugee
 
-Великобритания
+### Великобритания
 - https://t.me/WelcomeGreatBritain
 
-Венгрия 🇭🇺
+### Венгрия 🇭🇺
 - https://t.me/hungaryua
 - https://t.me/helpinhungary
 - https://t.me/HUvolunteerswithUA
 - https://help.unhcr.org/hungary/uk/
 - https://t.me/WelcomeHungary
 
-Германия 🇩🇪
+### Германия 🇩🇪
 - https://t.me/refugees_in_Germany
 - https://t.me/+ZM7gZZfM8Wc2YWM6
 - https://t.me/germanyhelpsukraine
@@ -64,14 +64,14 @@ dateCreated: 2022-03-09T14:58:27.344Z
 	- 👉🏼 Кельн: https://t.me/cologne_help
 	- 👉🏼 Хайльбронн (Heilbronn): https://t.me/+zc9HnLCyckMzMGRi
 
-Дания
+### Дания
 - https://t.me/refugeesinDenmark
 - https://t.me/WelcomeDenmark
 
-Ирландия
+### Ирландия
 - https://t.me/WelcomeIreland
 
-Испания 🇪🇸
+### Испания 🇪🇸
 - https://t.me/infohelpBCN
 - https://t.me/espana_ucrania
 - https://t.me/WelcomeSpain
@@ -81,36 +81,36 @@ dateCreated: 2022-03-09T14:58:27.344Z
 	- 👉🏼 Мадрид https://t.me/ukrmadrid
 	- 👉🏼 Аликанте, Бенидорм, Валенсия, Гранад: https://t.me/Alvalben
 
-Италия🇮🇹
+### Италия🇮🇹
 - https://t.me/dodomu_italia_ucraina
 - https://t.me/WelcomeItaly
 
-Кипр 🇨🇾
+### Кипр 🇨🇾
 - https://t.me/uacyprus
 - https://t.me/WelcomeCyprus
 
-Латвия 🇱🇻
+### Латвия 🇱🇻
 - https://www.ukraine-latvia.com/uk
 - https://t.me/WelcomeLatvia
 
-Литва
+### Литва
 - https://t.me/WelcomeLithuania
 
-Лихтенштейн
+### Лихтенштейн
 - https://t.me/WelcomeLiechtenstein
 
-Люксембург
+### Люксембург
 - https://t.me/WelcomeLuxembourg
 
-Молдова 🇲🇩
+### Молдова 🇲🇩
 - https://t.me/moldovaukraina
 - https://ua-md-help.info/
 - https://dopomoga.gov.md
 
-Нидерланды
+### Нидерланды
 - https://t.me/WelcomeNetherlands
 
-Польша 🇵🇱
+### Польша 🇵🇱
 - https://t.me/refugeesinPoland
 - https://t.me/WelcomePoland
 - Города Польши:
@@ -130,51 +130,51 @@ dateCreated: 2022-03-09T14:58:27.344Z
 - https://ukrainesupport.net/uk/
 - https://help.unhcr.org/poland/uk/
 
-Португалия 🇵🇹
+### Португалия 🇵🇹
 - https://t.me/+j3_sMgK6QG8yMmVi
 - https://www.sef.pt/en/Pages/homepage.aspx
 
-Румыния 🇷🇴
+### Румыния 🇷🇴
 - https://t.me/UkrainiansinRomania
 - https://t.me/romaniahelp2022 
 - https://t.me/+sd7n-wZZiPxiZjAy 
 - https://t.me/WelcomeRomania
 - https://www.facebook.com/groups/unitipentruucraina
 
-Словакия 🇸🇰
+### Словакия 🇸🇰
 - https://t.me/ukrajinci_na_slovensku
 - https://www.ukraineslovakia.sk
 - https://t.me/WelcomeSlovakia
 
-Словения 🇸🇰
+### Словения 🇸🇰
 - https://www.facebook.com/groups/179196962897968
 - https://t.me/WelcomeSlovenia
 
-Украина 🇺🇦
+### Украина 🇺🇦
 - https://t.me/refugeesinUkraine
 
-Финляндия
+### Финляндия
 - https://t.me/WelcomeFinland
 
-Франция 🇫🇷
+### Франция 🇫🇷
 - https://t.me/ukrainieninfrance
 - https://t.me/refugeesinFrance
 - https://t.me/WelcomeFrance
 - Париж: https://t.me/+KUk3d_a3w7dkYWI0
 
-Чехия 🇨🇿
+### Чехия 🇨🇿
 - https://t.me/+eAVhTnKzhEFkNWMy
 - https://t.me/WelcomeCzech
 
-Швейцария 🇨🇭
+### Швейцария 🇨🇭
 - https://t.me/refugeesinSwitzerland
 - https://t.me/WelcomeSwitzerland
 
-Швеция 🇸🇪
+### Швеция 🇸🇪
 - https://t.me/refugeesinSweden
 - https://t.me/WelcomeSweden
 
-Эстония
+### Эстония
 - https://t.me/WelcomeEstonii
 
 ## Помощь животным
