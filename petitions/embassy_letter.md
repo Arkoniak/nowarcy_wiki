@@ -2,7 +2,7 @@
 title: Обращение в посольство
 description: 
 published: true
-date: 2022-03-18T19:57:02.783Z
+date: 2022-03-21T11:41:47.162Z
 tags: address, embassy, letter
 editor: markdown
 dateCreated: 2022-03-03T18:34:51.693Z
@@ -21,4 +21,5 @@ dateCreated: 2022-03-03T18:34:51.693Z
 * 17 марта ответ послу был опубликован на платформе для сбора подписей https://the.organise.network/campaigns/teamup-lies-of-russian-ambassador-in-cyprus-about-war-in-ukraine
 * 17 же марта появилось видеобращение к Осадчему по мотивам его письма https://youtu.be/dlWL2-nE7mE
 * 18 марта интервью Осадчего, удостоилось критической колонки в местной прессе https://cyprus-mail.com/2022/03/18/our-view-russian-ambassador-should-not-be-dictating-to-cyprus/
+* 21 марта отправили разбор ответа на электронную почту и продублировали коментариями в фб
 * продолжение следует ...
