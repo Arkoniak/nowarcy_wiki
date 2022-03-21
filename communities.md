@@ -2,7 +2,7 @@
 title: Международные сообщества
 description: коммьюнити, осуществляющие помощь украинцам и россиянам по миру
 published: true
-date: 2022-03-20T14:04:39.869Z
+date: 2022-03-21T15:11:21.175Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-09T14:58:27.344Z
@@ -84,6 +84,9 @@ dateCreated: 2022-03-09T14:58:27.344Z
 ### Италия🇮🇹
 - https://t.me/dodomu_italia_ucraina
 - https://t.me/WelcomeItaly
+
+### Канада
+- https://www.facebook.com/groups/3148765652075065
 
 ### Кипр 🇨🇾
 - https://t.me/uacyprus
