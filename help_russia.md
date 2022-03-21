@@ -2,7 +2,7 @@
 title: Помощь в России
 description: Поддержка оппозиции и антипропаганда
 published: true
-date: 2022-03-18T08:35:59.855Z
+date: 2022-03-21T17:35:54.751Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T15:43:13.854Z
@@ -157,8 +157,6 @@ https://t.me/UkraineUsefulFiles
 
 * 17 ответов на самые частые доводы, оправдывающие войну https://web.archive.org/web/20220228125731/https://doxajournal.ru/anti_war_handbook
 
-* Примерно тоже самое, но короче https://www.instagram.com/p/CaiG12KOait/
-
 * Освещение ситуации и интервью экспертов https://www.youtube.com/c/MackNack. На этом канале в конце дня дают сводку по боевым действиям за день от независимых расследователей, например: https://www.youtube.com/watch?v=7RVnc4UoaQs
 
 * Вот эти раследователи  https://t.me/CITeam о ситуации рассказывают CIT. Известны тем, что первыми провели тщательное расследование про бук сбивший боинг, в последствии все их выводы были подтверждены официальной международной командой
@@ -166,5 +164,3 @@ https://t.me/UkraineUsefulFiles
 * Существует даже Феминистское Антивоенное Сопротивление https://t.me/femagainstwar https://www.youtube.com/watch?v=eUSWRyyUyUs, в активизм они умеют.
 
 * Команда Навального делает [спецэфиры](https://www.youtube.com/c/%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%B0%D1%8F%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0) куда приглашют много политиков, экспертов и тд. Выводят в эфир людей с мест - от жителей Бердянска и доктора Комаровского до депутатов Рады и т.д. 
-
-* https://twitter.com/mycravatundone/status/1498603909291646976?s=21
