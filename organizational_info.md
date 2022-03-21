@@ -2,7 +2,7 @@
 title: Организационные сведения
 description: где можно пошить флаги, напечатать постеры и так далее
 published: true
-date: 2022-03-21T12:42:50.253Z
+date: 2022-03-21T18:55:51.667Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-04T10:32:55.759Z
@@ -28,6 +28,11 @@ dateCreated: 2022-03-04T10:32:55.759Z
 # НКО
 - https://ngo-sc.org/how-to-set-up-an-ngo/
 - предложение концепции ассоциации русскоязычной культуры за рубежом: https://www.rueu.org/
+
+Немного объяснений, что такое ассоциации:
+- https://fr.wikipedia.org/wiki/Association_loi_de_1901
+- https://www.legalstart.fr/fiches-pratiques/association/comment-creer-une-association-loi-1901-les-etapes-a-suivre/#:~:text=Il%20existe%20deux%20moyens%20pour,04%20(liste%20des%20dirigeants)
+- разница между компанией и ассоциацией: https://www.legalstart.fr/fiches-pratiques/association/creer-une-association-ou-une-societe-faites-votre-choix/
 
 # Часто задаваемые вопросы (FAQ)
 
