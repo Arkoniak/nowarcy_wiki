@@ -2,7 +2,7 @@
 title: Помощь в России
 description: Поддержка оппозиции и антипропаганда
 published: true
-date: 2022-03-21T20:08:13.959Z
+date: 2022-03-21T22:39:45.472Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T15:43:13.854Z
@@ -58,6 +58,9 @@ https://www.globalgiving.org/projects/ovd-info/
 
 * Команда Навального делает [спецэфиры](https://www.youtube.com/c/%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%B0%D1%8F%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0) куда приглашют много политиков, экспертов и тд. Выводят в эфир людей с мест - от жителей Бердянска и доктора Комаровского до депутатов Рады и т.д. 
 
+* Update несколько разборов от antifake https://theins.ru/antifake/249459
+* https://theins.ru/antifake/249315
+* и вообще там постоянно что-то новое появляется https://theins.ru/antifake
 
 ## Листовки для местных
 * россиян [flyer_rus_iteration_01.pdf](/flyer_rus_iteration_01.pdf)
