@@ -2,7 +2,7 @@
 title: Петиции
 description: Петиции и различные обращения
 published: true
-date: 2022-03-19T20:38:03.245Z
+date: 2022-03-22T12:41:53.591Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T16:12:13.742Z
@@ -63,7 +63,8 @@ https://twitter.com/dmitry_palyuga/status/1498212420548009987?s=21
 и текст обращения
 https://docs.google.com/document/d/1yPRrSkzDVOBJSbjwkZZ7AYm172nMFhD-BrONFk7SVfg/mobilebasic
 
-# Открытое письмо граждан РФ на Кипре
+# Кипр
+## Открытое письмо граждан РФ на Кипре
 
 Проект письма описан в https://t.me/cy_walks/8553, здесь он приводится для полноты.
 
@@ -85,12 +86,12 @@ https://docs.google.com/document/d/1yPRrSkzDVOBJSbjwkZZ7AYm172nMFhD-BrONFk7SVfg/
 
 ---
 
-# Обращение в посольство
+## Обращение в посольство
 
 Текст обращения в посольства можно найти [здесь](/petitions/embassy_letter).
 
 Формальное, пусть даже чисто символическое обращение к послу с требованиями не помешает, в суде потом пригодится в конце-концов.
 
-## Ответ от посла Осадчего.
+### Ответ от посла Осадчего.
 
 https://drive.google.com/file/d/1gb-JS7-VR_7WULqKAX54Pdgx0suYT-lu/view?usp=sharing
