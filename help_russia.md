@@ -2,7 +2,7 @@
 title: Помощь в России
 description: Поддержка оппозиции и антипропаганда
 published: true
-date: 2022-03-21T22:39:45.472Z
+date: 2022-03-23T09:45:07.518Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T15:43:13.854Z
@@ -82,6 +82,8 @@ https://www.globalgiving.org/projects/ovd-info/
 * Новосибирск https://www.youtube.com/channel/UCKdhlQm5glmKEPxVjuNjQOA
 
 * Пермь https://t.me/perm36
+
+* Тверь (Закрой за мной Тверь): https://t.me/tversky
 
 
 ## Звонок другу
