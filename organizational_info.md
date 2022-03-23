@@ -2,7 +2,7 @@
 title: Организационные сведения
 description: где можно пошить флаги, напечатать постеры и так далее
 published: true
-date: 2022-03-21T18:55:51.667Z
+date: 2022-03-23T13:40:23.310Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-04T10:32:55.759Z
@@ -44,3 +44,4 @@ dateCreated: 2022-03-04T10:32:55.759Z
 * Английская версия текста о флаге: https://docs.google.com/document/d/1aiQPHNhNAWLs4B-Mun5n-ENB7AFSGNVQVj_3cChgsqE/mobilebasic
 * Донаты на флаги и раздатку можно скидывать сюда http://revolut.me/opentitan. Буду делать еженедельные отчёты о собранных и потраченных средствах
 * Тексты для слоганов собираются здесь: https://docs.google.com/spreadsheets/d/14dH2VtzBFU0leFkm4Qj31s9s6qixllGJT6oUDQIn8pY/edit?usp=sharing
+* Пространство задач: https://www.notion.so/nowarcy/865c8a9aa8fe465f99ffe7e560dd51f2
