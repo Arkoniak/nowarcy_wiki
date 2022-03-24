@@ -2,7 +2,7 @@
 title: Инфлюэнсеры
 description: Новостные сайты, политики, русскоязычные коммьюнити
 published: true
-date: 2022-03-22T13:44:23.553Z
+date: 2022-03-24T10:21:38.724Z
 tags: influencers, community
 editor: markdown
 dateCreated: 2022-03-04T12:36:08.632Z
@@ -11,6 +11,7 @@ dateCreated: 2022-03-04T12:36:08.632Z
 # Новостные агенства
 
 ## Twitter
+* @cnainenglish
 * @cybc_com_cy  
 * @activeradiocy 
 * @dialogoscy 
@@ -51,7 +52,7 @@ dateCreated: 2022-03-04T12:36:08.632Z
 * @cyprusnews.eu
 
 ## Email
-info@cybc.com.cy portal@dialogos.com.cy info@kanali6.com.cy info@bfbs.com info@cyprus-mail.com communications@pio.moi.gov.cy  info@financialmirror.com incyprus@phileleftheros.com info@offsite.com.cy info@cyprusnews.eu philenews@phileleftheros.com info@politis-news.com 
+news@cna.org.cy info@cybc.com.cy portal@dialogos.com.cy info@kanali6.com.cy info@bfbs.com info@cyprus-mail.com communications@pio.moi.gov.cy  info@financialmirror.com incyprus@phileleftheros.com info@offsite.com.cy info@cyprusnews.eu philenews@phileleftheros.com info@politis-news.com 
 
 ## TV
 * @cybc_com_cy
@@ -83,6 +84,10 @@ info@cybc.com.cy portal@dialogos.com.cy info@kanali6.com.cy info@bfbs.com info@c
   * https://www.instagram.com/bfbsradio/
 
 ## Press
+* Cyprus News Agency
+	* https://www.cna.org.cy/
+  * @cnainenglish
+  * https://www.facebook.com/Cyprus-News-Agency-102984278548503
 * Cyprus Mail
 	* http://www.cyprus-mail.com/
   * @cyprusmail
