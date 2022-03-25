@@ -2,7 +2,7 @@
 title: Помощь в России
 description: Поддержка оппозиции и антипропаганда
 published: true
-date: 2022-03-23T09:45:07.518Z
+date: 2022-03-25T12:33:12.587Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T15:43:13.854Z
@@ -74,6 +74,8 @@ https://www.globalgiving.org/projects/ovd-info/
 что делать в других городах я не знаю, но начать с поиска чего-то подобного, через бывших активистов навального, голоса (хотя там разные совсем мнения у всех), либертарианцев, весны
 
 * Волгоград https://vashdozor.com
+
+* Воронеж https://t.me/Vornadzor
 
 * Иркутск https://t.me/irk_insider
 
