@@ -2,7 +2,7 @@
 title: Помощь в России
 description: Поддержка оппозиции и антипропаганда
 published: true
-date: 2022-03-25T12:33:12.587Z
+date: 2022-03-28T21:14:57.974Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T15:43:13.854Z
@@ -21,6 +21,8 @@ dateCreated: 2022-03-03T15:43:13.854Z
 * Вот пример безопасного действия: больничный  https://t.me/irktrud/325?single
 * А вот более решительные призывы https://t.me/ResistanceRF
 * или вот https://www.stopvoina.com/
+* тут приудмывают как еще помогать будучи не в РФ https://t.me/bezopasnyirepost
+* пропагандистские каналы в телеге - можно писать жалобы https://t.me/russiansagainstputinswar/29859
 
 Грустную статистику происходящего можно посмотреть в [твиттере ОВД Инфо](https://twitter.com/OvdInfo/status/1505519097299312642).
 
@@ -73,19 +75,37 @@ https://www.globalgiving.org/projects/ovd-info/
 
 что делать в других городах я не знаю, но начать с поиска чего-то подобного, через бывших активистов навального, голоса (хотя там разные совсем мнения у всех), либертарианцев, весны
 
+* Астрахань http://t.me/ANARCHI_ASTRA
 * Волгоград https://vashdozor.com
-
-* Воронеж https://t.me/Vornadzor
-
-* Иркутск https://t.me/irk_insider
-
+* Воронеж
+    * https://t.me/Vornadzor
+    * http://t.me/posleprotesta
+    * http://www.youtube.com/c/svobodaVRN
+* Иваново http://t.me/free_navalny_ivanovo
+* Инжир http://www.facebook.com/injir.media
+* Иркутск
+    * https://t.me/irk_insider
+    * http://t.me/abcirk
+    * http://t.me/anhoirk
+* Казань http://t.me/resptatar
+* Калуга http://t.me/pulsepermen
+* Краснодар http://t.me/protokol_band
+* Кубань http://t.me/Golos_Kubani
 * Липецк https://www.youtube.com/channel/UCbmEeIOZbpR3ZzdnP_HCMzA
-
-* Новосибирск https://www.youtube.com/channel/UCKdhlQm5glmKEPxVjuNjQOA
-
-* Пермь https://t.me/perm36
-
+* Новосибирск
+    * https://www.youtube.com/channel/UCKdhlQm5glmKEPxVjuNjQOA
+    * http://t.me/antiwar_nsk
+    * http://t.me/+QvbogvM8VORkYTJi
+* Пермь
+    * https://t.me/perm36
+    * http://t.me/anarchy_perm
+* Сибирь http://t.me/newevil
 * Тверь (Закрой за мной Тверь): https://t.me/tversky
+* Тюмень
+    * https://t.me/bg_region72
+    * https://t.me/nowar72
+* Хабаровск http://t.me/cax1312/
+
 
 
 ## Звонок другу
