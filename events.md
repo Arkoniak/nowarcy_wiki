@@ -2,7 +2,7 @@
 title: Акции
 description: Список проводимых акций.
 published: true
-date: 2022-03-19T12:07:53.928Z
+date: 2022-03-29T09:49:10.518Z
 tags: events
 editor: markdown
 dateCreated: 2022-03-03T11:33:52.181Z
@@ -47,3 +47,15 @@ dateCreated: 2022-03-03T11:33:52.181Z
 
 ### Акции проходящие по всему миру
 Данный сайт, помимо всего прочего содержит список проходящих акций: https://www.stopputin.net/
+
+# Публикации посвященные кипрским акциям
+## Акция 27 марта 2022, Stop war in Ukraine
+https://www.facebook.com/events/674921200298274
+
+- Διαδήλωση κατά του πολέμου στην Ουκρανία έξω από τη ρωσική πρεσβεία στη Λευκωσία - Δείτε φωτογραφίες
+https://www.tothemaonline.com/Article/312313/diadhlwnoyn-kata-toy-polemoy-sthn-oykrania-exw-apo-th-rwsikh-presbeia-sth-leykwsia---deite-fwtografies
+- ANT1.com.cy | Баннеры и флаги у посольства России - Голосовое послание против войны (ВИДЕО)
+https://www.ant1.com.cy/news/cyprus/article/469344/me-pano-kai-simaies-exo-apo-ti-rosiki-presveia-ihiro-minuma-kata-tou-polemou-video/
+- Διαμαρτυρία έξω από την Ρωσική Πρεσβεία - Kρατούν ομοιώματα βρεφών, Η ΚΑΘΗΜΕΡΙΝΗ - mobile
+https://m.kathimerini.com.cy/gr/kypros/diamartyria-exo-apo-tin-presbeia-tis-rosias-polites-me-plakat-kai-omoiwmata-brefwn-eikones
+- Sigmalive: https://www.sigmalive.com/news/local/931743/ekatontades-diadilotes-sti-rosiki-presveiadiamartyrontai-kata-tou-polemou
