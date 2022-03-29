@@ -2,7 +2,7 @@
 title: Релокация
 description: список ресурсов, где предлагаются различные варианты релокации и поиска работы за пределами РФ.
 published: true
-date: 2022-03-23T06:57:29.368Z
+date: 2022-03-29T09:21:42.502Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-09T13:15:52.462Z
@@ -100,3 +100,120 @@ https://evacuation.bysol.org
 https://relocate.cy
 
 Релокейт на Кипр для IT-компаний, стартапов, фрилансеров и удаленщиков. Получение ПМЖ Кипра через инвестиции. Мы предлагаем легальный, быстрый и простой релокейт на Кипр, получение ВНЖ с последующим возможным апгрейдом до ПМЖ и гражданства.
+
+## Список чатов, посвященных релокации
+Помимо вышеуказанных ресурсов, есть список, который ходит по интернету, возможно имеет смысл смотреть и на него тоже. При этом возможны пересечения с какими-то из чатов, упомянутых выше.
+
+Чат по переезду с животными https://t.me/+N6DJcRupqpkzMGZi
+
+#### 🇦🇿 Азербайджан
+- https://t.me/relocate_azerbaijan
+- https://t.me/+zCTNJOYdcRIzMDky
+
+#### 🇦🇲 Армения
+- https://t.me/relogame_armenia
+- https://t.me/+kcf_3vuqKiAwNWFi
+- https://t.me/+szFNNJqf1J42Zjhi
+- https://t.me/+yYWvWxS4m1kyOTQy
+
+#### 🇩🇪 Германия
+- https://t.me/forum_germany
+
+#### 🇬🇷 Греция
+- https://t.me/+Sl6JV5cTY4A3OTEy
+
+#### 🇬🇪 Грузия
+- https://t.me/relogame_georgia
+- https://t.me/GeorgiaRelocated
+- https://t.me/itchatge
+- https://t.me/livetogether_georgia совместная аренда жилья
+- https://t.me/pets_ge про переезд с животными
+- https://t.me/+ybliLz2eTiM1NDVi
+
+#### 🇩🇴 Доминикана
+- https://t.me/+avPOc2GRB9EyZmZi
+
+#### 🇪🇸 Испания
+- https://t.me/+BajpITkENRoxOGQy
+- https://t.me/relogame_spain_chat
+- гайд и список чатов https://necessary-philosophy-a01.notion.site/a7a133d815e9461eb60290fc646a7e39
+
+#### 🇮🇹 Италия
+- https://t.me/+f-7FDZLWSbE5NThi
+
+#### 🇰🇿 Казахстан
+- https://t.me/relogame_kazakhstan
+- https://t.me/welcometokz
+- https://t.me/+OM6vy4XZcf04YmE6
+
+#### 🇨🇾 Кипр
+- https://t.me/badcyprus
+- https://t.me/+cViO9x0O0UcxMGVi
+
+#### 🇨🇷 Коста-Рика
+- https://t.me/CostaRica_ru
+
+#### 🇱🇻 Латвия
+- https://t.me/forum_latvia
+
+#### Латинская Америка
+- https://t.me/relogame_la_chat
+
+#### 🇲🇽 Мексика
+- https://t.me/forum_mexico
+- https://t.me/mexico_immigration
+
+#### 🇦🇺 Новая Зеландия
+- https://t.me/+l8WzShgpX-I0ZWFi
+
+#### 🇳🇴 Норвегия, 🇸🇪Швеция, 🇩🇰Дания
+- https://t.me/scandi_forum
+
+#### 🇦🇪 ОАЭ
+- https://t.me/relocation_dubai
+- https://t.me/+oJBvkEu5bftiMTEy
+
+#### 🇵🇹 Португалия
+- https://t.me/+vLkInNTOS_czNDBi
+
+#### 🇷🇸 Сербия
+- https://t.me/relogame_serbia
+
+#### 🇸🇬 Сингапур
+- https://t.me/singapore_city_of_lion
+
+#### 🇺🇸 США
+- https://t.me/forum_usa
+
+#### 🇹🇭 Тайланд
+- https://t.me/+KJ705bpflGI1MmIy
+
+#### 🇹🇷 Турция
+- https://t.me/+oqMAl0v4zpRkYTZi
+- https://t.me/+acMT61xg0TFiODFi
+
+#### 🇺🇿 Узбекистан
+- https://t.me/uzbekistan_chat360
+- https://t.me/relocationuz
+- https://t.me/im_in_tashkent
+
+#### 🇫🇮 Финляндия
+- http://t.me/finland_ru
+
+#### 🇫🇷 Франция 
+- https://t.me/forum_france
+
+#### 🇲🇪 Черногория
+- https://t.me/+l6HecwBJSTE5ZmJi
+- https://t.me/+3tDVz68l09Y2Y2My
+
+#### 🇱🇰 Шри-Ланка
+- https://t.me/weligamnost
+- https://t.me/dreamlanka
+
+#### 🇪🇪 Эстония
+- https://t.me/workinestonia_ru
+- https://t.me/estonia_ru
+
+#### 🇿🇦 ЮАР
+- https://t.me/forum_southafrica
