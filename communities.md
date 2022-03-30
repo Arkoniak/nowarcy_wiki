@@ -2,7 +2,7 @@
 title: Международные сообщества
 description: коммьюнити, осуществляющие помощь украинцам и россиянам по миру
 published: true
-date: 2022-03-21T15:11:21.175Z
+date: 2022-03-30T11:21:03.771Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-09T14:58:27.344Z
@@ -112,6 +112,8 @@ dateCreated: 2022-03-09T14:58:27.344Z
 
 ### Нидерланды
 - https://t.me/WelcomeNetherlands
+- https://helpoekraine.nu/
+- https://www.reddit.com/r/Netherlands/comments/t6s039/lets_make_an_overview_of_all_information_and/
 
 ### Польша 🇵🇱
 - https://t.me/refugeesinPoland
