@@ -2,7 +2,7 @@
 title: Организационные сведения
 description: где можно пошить флаги, напечатать постеры и так далее
 published: true
-date: 2022-03-31T13:17:32.257Z
+date: 2022-03-31T13:28:46.796Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-04T10:32:55.759Z
@@ -37,6 +37,11 @@ dateCreated: 2022-03-04T10:32:55.759Z
 # Возможные площадки для публичных обсуждений
 - Reddit (пример: https://www.reddit.com/r/liberta/)
 - Движок от Livestreet: http://livestreet.ru/blog/dev_livestreet/19289.html
+- опенсорсные альтернативы реддиту
+	- https://alternativeto.net/software/reddit/?license=opensource
+	- https://fossbytes.com/best-open-source-reddit-alternatives-free/
+	- https://github.com/LemmyNet/lemmy (https://join-lemmy.org/ выглядит очень даже хорошо)
+
 
 # Часто задаваемые вопросы (FAQ)
 
