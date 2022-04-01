@@ -2,7 +2,7 @@
 title: Помощь в России
 description: Поддержка оппозиции и антипропаганда
 published: true
-date: 2022-03-28T21:14:57.974Z
+date: 2022-04-01T10:19:56.808Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T15:43:13.854Z
@@ -63,6 +63,9 @@ https://www.globalgiving.org/projects/ovd-info/
 * Update несколько разборов от antifake https://theins.ru/antifake/249459
 * https://theins.ru/antifake/249315
 * и вообще там постоянно что-то новое появляется https://theins.ru/antifake
+
+* про неонацизм в рф и в Украине https://vot-tak.tv/novosti/31-03-2022-komu-nuzhna-denatsifikatsiya/
+* про УПА и ОУН https://vot-tak.tv/programmy/upa-prestupniki-ili-geroi/
 
 ## Листовки для местных
 * россиян [flyer_rus_iteration_01.pdf](/flyer_rus_iteration_01.pdf)
