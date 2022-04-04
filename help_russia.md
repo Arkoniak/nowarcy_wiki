@@ -2,7 +2,7 @@
 title: Помощь в России
 description: Поддержка оппозиции и антипропаганда
 published: true
-date: 2022-04-04T16:01:55.829Z
+date: 2022-04-04T16:19:11.265Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T15:43:13.854Z
@@ -24,6 +24,54 @@ dateCreated: 2022-03-03T15:43:13.854Z
 * тут приудмывают как еще помогать будучи не в РФ https://t.me/bezopasnyirepost
 * пропагандистские каналы в телеге - можно писать жалобы https://t.me/russiansagainstputinswar/29859
 * методы гражданского простеста. Внимание! Мы не поддерживаем и не призываем использовать или распространять незаконные методы, оставайтесь в рамках закона и морали и призывайте к этому других  https://partisan.super.site/
+
+* Зеленая Лента
+Завяжи зеленую ленту - стань частью всероссийского мирного сопротивления
+Канал: https://t.me/+6yNxStWrMQU2OWVi
+Админ: https://t.me/zelenaya_lenta
+#зеленаялента
+
+
+* Весна
+Молодёжное демократическое движение. Вместе построим свободную Россию, где будут соблюдаться права человека. Присоединяйтесь: http://spb-vesna.ru/regions
+В других соц. сетях: https://t.me/vesna_democrat/30
+
+* Феминистское антивоенное сопротивление
+Телеграм: https://t.me/femagainstwar
+Бот для сообщений: https://t.me/femagainstwar_bot
+Ссылки на другие ресурсы - taplink.cc/fem_antiwar_resistance
+
+* Медиа Партизаны
+● Бот: https://t.me/mpartisans_bot
+● Сайт: www.mediapartisans.org
+● Канал: https://t.me/mpartisans
+● Чат: https://t.me/mpartisanschat
+● Агитационные материалы: тут
+
+* Боец Анархист
+Телеграм: https://t.me/BO_AK_reborn
+
+* Прометей
+Информационно-аналитический ресурс социал-революционных анархистов движения "Народная Самооборона"
+vk.com/class__war
+Телеграм: https://t.me/naroborona
+Бот обратной связи — https://t.me/naroborona_bot
+Чат - https://t.me/RebelWords
+Сайт — naroborona.info
+Вопросы сотрудничества — media_ns@riseup.net
+
+* Не одни
+Всеросийское объединение за мир и свободу.
+Телеграм: https://t.me/ne_odni_project
+
+* БезОпасный Репост
+Телеграм: https://t.me/BO_AK_reborn
+
+* Студенты против войны
+Всероссийская студенческая антивоенная инициатива: clck.ru/dWGuj
+Телеграм: https://t.me/studentprotiv
+Бот для связи: https://t.me/budu_protiv_bot
+Инстаграм: https://www.instagram.com/studentsvswar/
 
 Грустную статистику происходящего можно посмотреть в [твиттере ОВД Инфо](https://twitter.com/OvdInfo/status/1505519097299312642).
 
