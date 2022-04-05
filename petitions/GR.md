@@ -2,7 +2,7 @@
 title: GR
 description: history of out communication with Cyprus government
 published: true
-date: 2022-04-05T22:44:22.782Z
+date: 2022-04-05T22:52:50.144Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T22:41:36.586Z
@@ -25,7 +25,7 @@ From the Community Organization "Cyprus and the beautiful Russia of tomorrow."
 
 * 24 же марта отправили прессрелиз о петиции в Cyprus News Agency (news@cna.org.cy). [press_release_petition_2022-03-23.pdf](/press_release_petition_2022-03-23.pdf)
 
-* 4 апреля обновили письмо для муниципалитета Ларнаки, теперь оно обращено ко всем заинтересованным лицам и более лучше оформлено
+* 4 апреля обновили письмо для муниципалитета Ларнаки, теперь оно обращено от лица киприотов, россиян, украинцев и других ко всем заинтересованным лицам и более лучше оформлено
 
 * 5 апреля выложили текст на всеобщее обозрение https://docs.google.com/document/d/ 1Bo93nBrQSGFZJFnwGnEA6vqi7TZLwRoQ/edit и собрали 293 пживые подписи на труарной акции в Лимасоле
 
