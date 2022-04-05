@@ -2,7 +2,7 @@
 title: Помощь в России
 description: Поддержка оппозиции и антипропаганда
 published: true
-date: 2022-04-04T16:20:01.773Z
+date: 2022-04-05T21:46:15.462Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T15:43:13.854Z
@@ -112,6 +112,8 @@ https://www.globalgiving.org/projects/ovd-info/
 
 * про неонацизм в рф и в Украине https://vot-tak.tv/novosti/31-03-2022-komu-nuzhna-denatsifikatsiya/
 * про УПА и ОУН https://vot-tak.tv/programmy/upa-prestupniki-ili-geroi/
+* разбор одной частоцитируемой фотографии Азова (опчему-то на итальянском) https://www.stopfake.org/it/fake-battaglione-azov-formazione-neonazista/
+* и вообще тут много всего https://www.stopfake.org/ru/glavnaya-2/
 
 ## Листовки для местных
 * россиян [flyer_rus_iteration_01.pdf](/flyer_rus_iteration_01.pdf)
