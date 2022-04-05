@@ -2,7 +2,7 @@
 title: GR
 description: history of out communication with Cyprus government
 published: true
-date: 2022-04-05T22:54:51.249Z
+date: 2022-04-05T23:15:09.692Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T22:41:36.586Z
@@ -27,7 +27,7 @@ From the Community Organization "Cyprus and the beautiful Russia of tomorrow."
 
 * 4 апреля обновили письмо для муниципалитета Ларнаки, теперь оно обращено от лица киприотов, россиян, украинцев и других ко всем заинтересованным лицам и более лучше оформлено
 
-* 5 апреля выложили текст на всеобщее обозрение https://docs.google.com/document/d/ 1Bo93nBrQSGFZJFnwGnEA6vqi7TZLwRoQ/edit и собрали 293 пживые подписи на труарной акции в Лимасоле
+* 5 апреля выложили текст на всеобщее обозрение https://docs.google.com/document/d/1Bo93nBrQSGFZJFnwGnEA6vqi7TZLwRoQ/edit и собрали 293 пживые подписи на труарной акции в Лимасоле
 
 * 5 же апреля параллельно нашим усилиям свою петицию с более жестким требованием - остановить про-путинску/про-военную акцию запустили участники чата нашего движения https://www.change.org/p/stop-pro-putin-pro-war-march-in-limassol-cyprus
 мы поддержали ее информационно, запустив рекламу в фб (https://www.facebook.com/nowarcy/posts/117226794255470), не зная какой портал в ад тем самым открываем в коментариях
