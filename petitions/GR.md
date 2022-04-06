@@ -2,7 +2,7 @@
 title: GR
 description: history of out communication with Cyprus government
 published: true
-date: 2022-04-05T23:23:48.055Z
+date: 2022-04-06T14:47:41.934Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T22:41:36.586Z
@@ -32,6 +32,8 @@ From the Community Organization "Cyprus and the beautiful Russia of tomorrow."
 * 5 же апреля параллельно нашим усилиям свою петицию с более жестким требованием - остановить про-путинску/про-военную акцию запустили участники чата нашего движения https://www.change.org/p/stop-pro-putin-pro-war-march-in-limassol-cyprus
 мы поддержали ее информационно, запустив рекламу в фб (https://www.facebook.com/nowarcy/posts/117226794255470), не зная какой портал в ад тем самым открываем в коментариях
 
-* 6 апреля отправим письмо в муниципалитеты Ларнаки, Лимасола и Пафоса (municipality@larnaka.com press.office@larnaka.com admin@limassolmunicipal.com.cy town.hall@pafos.org.cy mayor.office@pafos.org.cy politis@pafos.org.cy dir.general@pafos.org.cy gdy@pafos.org.cy foreign.rel@pafos.org.cy cultural.service@pafos.org.cy) и всем прочим, кому обычно отправляем
+* 6 апреля отправили письмо в муниципалитеты Ларнаки, Лимасола и Пафоса (municipality@larnaka.com press.office@larnaka.com admin@limassolmunicipal.com.cy town.hall@pafos.org.cy mayor.office@pafos.org.cy politis@pafos.org.cy dir.general@pafos.org.cy gdy@pafos.org.cy foreign.rel@pafos.org.cy cultural.service@pafos.org.cy) и всем прочим, кому обычно отправляем
+
+* 7 апреля укринская диаспора собирается передать живые подписи в парламент Кипра, после речи Зеленского
 
 * продолжение следует
