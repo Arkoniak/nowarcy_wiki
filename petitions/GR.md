@@ -1,8 +1,8 @@
 ---
 title: GR
-description: history of out communication with Cyprus government
+description: history of our communication with Cyprus government
 published: true
-date: 2022-04-06T14:47:41.934Z
+date: 2022-04-07T07:09:39.099Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T22:41:36.586Z
