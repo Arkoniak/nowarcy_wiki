@@ -2,7 +2,7 @@
 title: Нет Войне! Кипр
 description: 
 published: true
-date: 2022-04-06T16:23:21.512Z
+date: 2022-04-08T06:10:22.450Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T09:47:40.539Z
@@ -61,4 +61,3 @@ dateCreated: 2022-03-03T09:47:40.539Z
 
 * Основной телеграм канал: [Нет Войне! Кипр](https://t.me/cy_walks/7638)
 * Facebook группа [Cyprus and the Beautiful Russia of Tomorrow](https://www.facebook.com/groups/cybrt). Менее оперативно, но важная информация появляется и там, она же альтернативный канал связи.
-* Наполнение данной вики и календаря акций: [Андрей Оськин](https://t.me/skoffer) 
