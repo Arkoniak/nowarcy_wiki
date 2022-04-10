@@ -2,7 +2,7 @@
 title: GR
 description: history of our communication with Cyprus government
 published: true
-date: 2022-04-07T07:09:39.099Z
+date: 2022-04-10T07:30:54.084Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T22:41:36.586Z
@@ -35,5 +35,7 @@ From the Community Organization "Cyprus and the beautiful Russia of tomorrow."
 * 6 апреля отправили письмо в муниципалитеты Ларнаки, Лимасола и Пафоса (municipality@larnaka.com press.office@larnaka.com admin@limassolmunicipal.com.cy town.hall@pafos.org.cy mayor.office@pafos.org.cy politis@pafos.org.cy dir.general@pafos.org.cy gdy@pafos.org.cy foreign.rel@pafos.org.cy cultural.service@pafos.org.cy) и всем прочим, кому обычно отправляем
 
 * 7 апреля укринская диаспора собирается передать живые подписи в парламент Кипра, после речи Зеленского
+
+* 10 апреля составили обращение в правительству Кипра с простьбой выслать российских дипломатов. https://docs.google.com/document/d/1e4VxDn8LGtRnzmE0dEGZEGcEpA3Nrq8A/edit?usp=sharing&ouid=108790946687722141486&rtpof=true&sd=true
 
 * продолжение следует
