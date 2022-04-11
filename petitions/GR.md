@@ -2,7 +2,7 @@
 title: GR
 description: history of our communication with Cyprus government
 published: true
-date: 2022-04-10T07:30:54.084Z
+date: 2022-04-11T08:41:10.113Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T22:41:36.586Z
@@ -36,6 +36,6 @@ From the Community Organization "Cyprus and the beautiful Russia of tomorrow."
 
 * 7 апреля укринская диаспора собирается передать живые подписи в парламент Кипра, после речи Зеленского
 
-* 10 апреля составили обращение в правительству Кипра с простьбой выслать российских дипломатов. https://docs.google.com/document/d/1e4VxDn8LGtRnzmE0dEGZEGcEpA3Nrq8A/edit?usp=sharing&ouid=108790946687722141486&rtpof=true&sd=true
+* 10 апреля составили обращение в правительству Кипра с просьбой выслать российских дипломатов. https://docs.google.com/document/d/1e4VxDn8LGtRnzmE0dEGZEGcEpA3Nrq8A/edit?usp=sharing&ouid=108790946687722141486&rtpof=true&sd=true и собрали 232 живые подписи на акции "Спаси Мариуполь"
 
 * продолжение следует
