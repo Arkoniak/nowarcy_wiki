@@ -2,7 +2,7 @@
 title: Помощь в России
 description: Поддержка оппозиции и антипропаганда
 published: true
-date: 2022-04-12T08:28:33.568Z
+date: 2022-04-12T08:30:38.458Z
 tags: паспорт нансена
 editor: markdown
 dateCreated: 2022-03-03T15:43:13.854Z
@@ -168,8 +168,6 @@ https://zaodno.org/
     * https://t.me/bg_region72
     * https://t.me/nowar72
 * Хабаровск http://t.me/cax1312/
-
-
 
 ## Звонок другу
 Исходное описание в https://t.me/cy_walks/8300
