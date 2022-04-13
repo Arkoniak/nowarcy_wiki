@@ -2,7 +2,7 @@
 title: Краткий список предстоящих акций
 description: 
 published: true
-date: 2022-04-13T07:27:36.110Z
+date: 2022-04-13T07:38:27.900Z
 tags: events
 editor: markdown
 dateCreated: 2022-03-05T19:15:11.954Z
@@ -10,7 +10,112 @@ dateCreated: 2022-03-05T19:15:11.954Z
 
 Акции в эти и другие дни можно найти на странице [календаря](/events/calendar).
 
-# Воскресенье, 5 апреля 2022
+# Пятница, 15 апреля 2022
+## Charity concert "Hug"
+ссылка: https://www.facebook.com/events/2865169810446843
+время: 7:30 PM
+место: Παττίχειο Δημοτικό Θέατρο Λεμεσού - Pattihio Limassol Municipal Theatre
+
+in English below
+на русском ниже
+🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼
+4 обійм в день - для виживання
+8 - для підтримки
+12 - для росту!
+Життя людини - крихке та безцінне! Як його захистити?
+Наш світ - маленький і вразливий! Зруйнувати МИР у СВІТІ виявилося цинічно просто. ЯК ЙОГО ВІДНОВИТИ?!
+Друзі! Не важливо, хто ми і звідки. Але тільки РАЗМО ми можемо ЗУПИНИТИ ВІЙНУ!
+В п'ятницю 15 квітня 0 19:30, проект "Островний інстинкт" запрошує вас на благодійний вечів в театрі Pattihio в Лімасолі.
+В концерті беруть участь:
+💫 співачка, автор пісень MILASA (Росія - Данія - Кіпр)
+💫 оперна співачка, композиторка Анастасія Максимова (Росія - Кіпр)
+💫 акторка, режисерка Ірина Михайловська і театр «Студія Текст» (Росія - Кіпр)
+💫 поетеса Олена Гопчук (Україна - Кіпр)
+💫 заслужена артистка Молдови Ольга Тира,
+💫 музика Володимир Еленкріг
+💫 музика Fabio Cavaggion (Італія)
+💫 дует «Avant tout»
+Vanessa Megalemou
+Vasilis Vourvopoulos
+(Cyprus)
+💫 письменник Марат Гизатулін (Росія - Кіпр)
+💫 співачка Олена Стаценко (Україна - Кіпр)
+💫 художниця Ірина Сигітова (Україна - Кіпр)
+💫 музика, співак Микита Зозовський (Україна)
+Список учасників програми доповнюється - дякуємо за ВАШ відгук!
+Квитки - в касах театра Pattihio і на сайті https://www.soldoutticketbox.com//obnimi-pattihio-april-2022/easyconsole.cfm
+Вартість квитка - 25 євро.
+100% зібраних коштів будут перераховані українцям - тим, кому сьогодні ЖИТТЄІВО НЕОБХІДНА наша допомога і підтримка!
+ОБНІМІТЬ тих, хто поряд! Спробуйте дотягнутися до тих, хто далеко!
+ВАЖЛИВО: STREAM!
+15 квітня до нас зможуть приєднатися глядачі з усього світу! Концерт буде транслюоватися в прямому ефирі на YouTube! Посилання поширимо додатково перед початком концерта.
+Обійми! Обними! Hug!
+За МИР В УКРАЇНІ!
+
+🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼
+4 объятия в день - для выживания,
+8 - для поддержки,
+12 - для роста!
+Жизнь человека - хрупкая и бесценная! Как ее защитить?
+Наш мир - маленький и уязвимый! Разрушить МИР в МИРЕ оказалось цинично просто. КАК ЕГО ВОССТАНОВИТЬ?!
+Друзья! Не важно, кто мы и откуда. Но только ВМЕСТЕ мы можем ОСТАНОВИТЬ ВОЙНУ!
+В пятницу, 15 апреля, в 19:30, проект «Островной инстинкт» приглашает вас на благотворительный вечер в театре Pattihio в Лимассоле.
+В концерте принимают участие:
+💫певица, автор песен MILASA (Россия - Дания - Кипр)
+💫оперная певица, композитор Анастасия Максимова (Россия - Кипр)
+💫актриса, режиссер Ирина Михайловская и театр «Студия Текст» (Россия - Кипр)
+💫 поэтесса Елена Гопчук (Украина - Кипр)
+💫 Заслуженная артистка Молдовы
+Ольга Тира,
+💫 музыкант Владимир Эленкриг
+💫 музыкант Fabio Cavaggion (Италия)
+💫дуэт «Avant tout»
+Vanessa Megalemou
+Vasilis Vourvopoulos
+(Cyprus)
+💫писатель Марат Гизатулин (Россия - Кипр)
+💫певица Алёна Стаценко (Украина - Кипр)
+💫художник Ирина Сигитова (Украина - Кипр)
+💫музыкант, певец Никита Зозовский (Украина)
+Список участников программы пополняется - спасибо за ВАШ отклик!
+Билеты - в кассах театра Pattihio и на сайте https://www.soldoutticketbox.com//obnimi-pattihio-april-2022/easyconsole.cfm
+Стоимость билета - 25 евро.
+100% собранных средств будут перечислены украинцам - тем, кому сегодня ЖИЗНЕННО НЕОБХОДИМА наша помощь и поддержка!
+ОБНИМИТЕ тех, кто рядом! Попытайтесь дотянуться до тех, кто далеко!
+ВАЖНО: STREAM!
+15 апреля к нам смогут присоединиться зрители со всего мира! Концерт будет транслироваться в прямом эфире на YouTube! Ссылку разместим дополнительно перед началом концерта.
+Обійми! Обними! Hug!
+За МИР В УКРАИНЕ!
+
+🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼
+4 hugs a day for survival,
+8 - for support,
+12 - for growth!
+Human life is fragile and priceless. How to protect it?
+Our world is small and vulnerable. And the PEACE in the WORLD has been destroyed! How to restore it?!
+Dear Friends! It doesn't matter who we are or where we come from. ONLY TOGETHER we can STOP THE WAR!
+On Friday, April 15, at 19:30, join us at the charity evening at the Pattihio Theater in Limassol.
+The list of program participants is growing - thank you for your feedback!
+Tickets are available at the box office of the Pattihio theater and https://www.soldoutticketbox.com//obnimi-pattihio-april-2022/easyconsole.cfm
+Ticket price is 25 euros.
+100% of the funds raised will be transferred to Ukrainians - those who are in dire need of our help and support.
+HUG people around you, try to reach those who are far away!
+IMPORTANT: the event will be STREAMED!
+On April 15, viewers from all over the world will be able to join us.
+The concert will be streamed live on YouTube. We will post the link before the start of the concert.
+Hug! For PEACE IN UKRAINE!
+
+# Суббота, 16 апреля 2022
+## No War Cy
+ссылка: TBA
+время: 4:30 PM
+место: Limassol, Molos, Caffe Nero
+
+Сегодня расскажем подробности, но запланируйте это время в своих календарях. Встретимся, обсудим наши планы, и, конечно, будет и атрибутика – флаги, наклейки, значки.
+
+We'll tell you all the details today, but schedule that time in your calendars. We'll meet, discuss our plans, and of course there will be some merch - flags, stickers, pins.
+
+# Воскресенье, 17 апреля 2022
 ## URBAN CLEAN UP
 ссылка: https://www.facebook.com/events/1005491507005867
 время: 9 AM - 11:30 AM
