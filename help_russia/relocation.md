@@ -2,7 +2,7 @@
 title: Релокация
 description: список ресурсов, где предлагаются различные варианты релокации и поиска работы за пределами РФ.
 published: true
-date: 2022-04-13T13:17:48.490Z
+date: 2022-04-13T13:41:39.292Z
 tags: паспорт нансена
 editor: markdown
 dateCreated: 2022-03-09T13:15:52.462Z
@@ -105,6 +105,8 @@ https://evacuation.bysol.org
 Группа в фейсбуке: https://www.facebook.com/freepassport.org
 
 ## Релокация на Кипр
+
+Список вопросов и ответов для релокации на Кипр находится [здесь](/help_russia/relocation_cy)
 
 ### Сайт релокации relocate.cy
 url: https://relocate.cy
