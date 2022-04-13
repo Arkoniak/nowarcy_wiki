@@ -2,7 +2,7 @@
 title: Краткий список предстоящих акций
 description: 
 published: true
-date: 2022-04-13T07:38:27.900Z
+date: 2022-04-13T13:13:41.849Z
 tags: events
 editor: markdown
 dateCreated: 2022-03-05T19:15:11.954Z
@@ -106,14 +106,44 @@ The concert will be streamed live on YouTube. We will post the link before the s
 Hug! For PEACE IN UKRAINE!
 
 # Суббота, 16 апреля 2022
-## No War Cy
-ссылка: TBA
+## Stand with Ukraine
+ссылка: https://www.facebook.com/events/528354258911444
 время: 4:30 PM
 место: Limassol, Molos, Caffe Nero
 
-Сегодня расскажем подробности, но запланируйте это время в своих календарях. Встретимся, обсудим наши планы, и, конечно, будет и атрибутика – флаги, наклейки, значки.
 
-We'll tell you all the details today, but schedule that time in your calendars. We'll meet, discuss our plans, and of course there will be some merch - flags, stickers, pins.
+Русский текст ниже
+
+We are gathering to express support for Ukraine and step up the pressure to stop Russian aggression.
+We are organizing our rally for all the people of Cyprus who are against Russian military aggression in Ukraine.
+We invite everyone who agrees with our message to join, and we encourage you to bring your like-minded friends, family, and acquaintances
+Together we are louder!
+At the rally, you can:
+* Meet like-minded people
+* Have an opportunity to give a speech
+* Get stickers and flags of our anti-war movement
+* Sign an appeal to the Cypriot authorities demanding the expulsion of Russian diplomats
+Meeting program:
+16:30 - gathering at the Nero cafe, communication, and other activities
+17:00 - lining up along the "sea road"
+17:30 - procession towards the amphitheater
+
+---
+
+Суббота, 16 апреля, 16:30, Лимасол, Молос, Кафе Неро
+Собираемся, чтобы выразить поддержку Украине и продемонстрировать массовость антивоенного движения на Кипре.
+Приглашаем присоединяться всех жителей Кипра, которые против военной агрессии россии.
+Зовите всех своих друзей, рассказывайте о нашем митинге знакомым.
+Вместе мы громче!
+На митинге можно:
+* познакомиться с единомышленниками
+* выступить с речью
+* получить наклейки и флаги нашего антивоенного движения
+* подписать обращение к властям Кипра с просьбой выслать российских дипломатов
+Программа митинга:
+16:30 — сбор у кафе Неро, общение и прочая активность
+17:00 — выстраиваемся вдоль "сироад"
+17:30 — шествие в сторону амфитеатра
 
 # Воскресенье, 17 апреля 2022
 ## URBAN CLEAN UP
