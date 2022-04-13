@@ -2,7 +2,7 @@
 title: Чаты и группы
 description: 
 published: true
-date: 2022-03-06T19:42:52.166Z
+date: 2022-04-13T06:15:56.388Z
 tags: chat, telegram
 editor: markdown
 dateCreated: 2022-03-03T10:51:59.725Z
@@ -17,9 +17,9 @@ dateCreated: 2022-03-03T10:51:59.725Z
 
 Обсуждение википедии: [Нет войне! Вики](https://t.me/+jQ1ffUlYqhw3ZWYy)
 
-Оргчат: [Нет Войне! Оргчат](https://t.me/+XLcM_0EWpZEwNDg6)
 
-Атрибутика: [Нет Войне! Атрибутика](https://t.me/+XLcM_0EWpZEwNDg6)
+
+
 
 ## Лайфхак
 
