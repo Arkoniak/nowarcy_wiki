@@ -2,7 +2,7 @@
 title: Краткий список предстоящих акций
 description: 
 published: true
-date: 2022-04-04T11:41:12.493Z
+date: 2022-04-13T07:27:36.110Z
 tags: events
 editor: markdown
 dateCreated: 2022-03-05T19:15:11.954Z
@@ -10,23 +10,28 @@ dateCreated: 2022-03-05T19:15:11.954Z
 
 Акции в эти и другие дни можно найти на странице [календаря](/events/calendar).
 
-# 5 апреля 2022 (вторник)
-## Всекіпрська ЖАЛОБА. БУЧА, ІРПІНЬ, ГОСТОМЕЛЬ і вся Україна
+# Воскресенье, 5 апреля 2022
+## URBAN CLEAN UP
+ссылка: https://www.facebook.com/events/1005491507005867
+время: 9 AM - 11:30 AM
+место: Limassol, Tsirio Stadium
 
-- ссылка: https://www.facebook.com/events/1057802001616060
-- место: Кипр, во всех городах (детали в объявлении)
-- время: 7 PM
+Zero-waste lifestyle is an international trend that not that long ago has arrived in Cyprus. To literally lead a zero waste life is near impossible, however, it is not difficult to achieve small goals that in the long run will prove beneficial to our community.
+To unleash the potential of developing a zero-waste culture for Limassol residents, City Friends Club (CFC) and agno zero waste grocery are teaming up for a collaborative cleanup on the 17th of April at 9 AM.
+🛒 Agno zero waste grocery is the first plastic free shop in Cyprus, offering bulk foods, cleaning products and plastic free accessories in order to eliminate waste ending up in landfills and the environment.
+♻️ CFC is the organisation that is cleaning Limassol and bringing awareness about waste-related issues to the people of Cyprus.
+During the cleanup, a team of volunteers will not only clean up yet another section of the city, but will also determine the TOP 5 most popular discarded items and propose more environmentally friendly alternatives.
 
-Вчора світ шокували численні кадри закатованих до смерті мирних жителів Бучі, Ірпеня та інших колись квітучих міст і селищ північного пригороду Києва. Закатованих цивільних чоловіків, згвалтованих жінок і дітей, вбитих старих і немічних, зпалених вогнищем людей – безневинних жертв російських воєнних, що прийшли з єдиною ціллю - винищувати українське населення. Нема назви цим звірствам, нема прощення, це – Геноцид проти Українського народу.
-Ми впевнені, що світ повинен знати правду про кожну смерть безневинних людей, про кожне звірство російського агресора.
-Ми оголошуємо Жалобу за всіма людьми, за цілими родинами, за цілими містами і селищами, що були так страшно вбиті.
-Всією великою Громадою Українців на Кіпрі і всіх небайдужих людей виходимо на Жалобу у ВІВТОРОК, 5 КВІТНЯ, 19:00
-Пафос – Harbour Kiosk, https://goo.gl/maps/zjeFR8VfUxkWdz9B9
-Ларнака – Anchor of Odesa Monument, https://maps.app.goo.gl/ihEMSia9bBBQaW9s7
-Лімасол - Молос, біля скейт-парку https://goo.gl/maps/kNydV8nZvytPqBLq9
-Нікосія - - Нікосія - Eleftheria Square
-https://goo.gl/maps/qqajRTcJA2tPFb7R8
-Беремо з собою свічки, дитячі іграшки, прапори, плакати, які відповідають тематиці 
+Join us!
+📆 DATE
+Sunday, 17th of APRIL
+
+⏰ OUR TIMING
+9:00 AM - gathering of volunteers at the location
+9:10 - 9.20 AM - briefing
+9:20 - 11:20 AM - clean up
+11:20 - 11:30 AM - group photo
+
 
 # Ежедневно
 ## Пафос, Харбор
