@@ -2,7 +2,7 @@
 title: Инфлюэнсеры
 description: Новостные сайты, политики, русскоязычные коммьюнити
 published: true
-date: 2022-03-24T10:21:38.724Z
+date: 2022-04-14T14:20:28.064Z
 tags: influencers, community
 editor: markdown
 dateCreated: 2022-03-04T12:36:08.632Z
@@ -190,3 +190,19 @@ Russians in Cyprus - Русские на Кипре https://www.facebook.com/gro
 Русские на Кипре & Russians In Cyprus! https://www.facebook.com/groups/490466814458077/ 32,8к тут похоже не публикуют (
 
 Russian Cyprus-Русский Кипр https://www.facebook.com/groups/341019655912891/ 36,6к +
+
+Наша жизнь на Кипре (Ларнака) / Cyprus Living (Larnaca)	https://www.facebook.com/groups/437096486622485/
+
+Свежие новости и события Кипра. Лимассол, Ларнака, Никосия, Пафос	https://www.facebook.com/groups/730024270677643/
+
+Кипр, Пафос / Cyprus, Paphos	https://www.facebook.com/groups/russiansinpaphos
+
+Любимый Пафос, Кипр 🇨🇾	https://www.facebook.com/groups/ilovepaphos
+
+Лимассолград - Русские на Кипре - Лимассол	https://www.facebook.com/groups/118573065687512
+
+Русскоговорящий Лимассол.	https://www.facebook.com/groups/243171525781449/
+
+Кипр Нет Войне!Ларнака!Русский корабль,иди на х.й!!	https://www.facebook.com/groups/1228843490613536
+
+Киприоты против войны	https://www.facebook.com/groups/184355812240442
