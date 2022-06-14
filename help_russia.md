@@ -2,7 +2,7 @@
 title: Помощь в России
 description: Поддержка оппозиции и антипропаганда
 published: true
-date: 2022-04-13T13:40:57.279Z
+date: 2022-06-14T19:28:32.671Z
 tags: паспорт нансена
 editor: markdown
 dateCreated: 2022-03-03T15:43:13.854Z
@@ -162,6 +162,7 @@ https://zaodno.org/
 * Пермь
     * https://t.me/perm36
     * http://t.me/anarchy_perm
+* Омск https://t.me/omsk_ogo
 * Сибирь http://t.me/newevil
 * Тверь (Закрой за мной Тверь): https://t.me/tversky
 * Тюмень
