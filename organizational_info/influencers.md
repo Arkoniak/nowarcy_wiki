@@ -2,7 +2,7 @@
 title: Инфлюэнсеры
 description: Новостные сайты, политики, русскоязычные коммьюнити
 published: true
-date: 2022-04-14T14:20:28.064Z
+date: 2022-08-01T10:06:34.614Z
 tags: influencers, community
 editor: markdown
 dateCreated: 2022-03-04T12:36:08.632Z
@@ -52,7 +52,7 @@ dateCreated: 2022-03-04T12:36:08.632Z
 * @cyprusnews.eu
 
 ## Email
-news@cna.org.cy info@cybc.com.cy portal@dialogos.com.cy info@kanali6.com.cy info@bfbs.com info@cyprus-mail.com communications@pio.moi.gov.cy  info@financialmirror.com incyprus@phileleftheros.com info@offsite.com.cy info@cyprusnews.eu philenews@phileleftheros.com info@politis-news.com 
+manolis.k@politis.com.cy news@cna.org.cy info@cybc.com.cy portal@dialogos.com.cy info@kanali6.com.cy info@bfbs.com info@cyprus-mail.com communications@pio.moi.gov.cy  info@financialmirror.com incyprus@phileleftheros.com info@offsite.com.cy info@cyprusnews.eu philenews@phileleftheros.com info@politis-news.com 
 
 ## TV
 * @cybc_com_cy
@@ -126,6 +126,9 @@ news@cna.org.cy info@cybc.com.cy portal@dialogos.com.cy info@kanali6.com.cy info
 	* https://www.cyprusnews.eu/
   * https://www.facebook.com/cynewseu 
   * https://www.instagram.com/cyprusnews.eu/
+
+## Jounalists
+* MANOLIS KALATZIS of Politis manolis.k@politis.com.cy
 
 # Местные политики
 
